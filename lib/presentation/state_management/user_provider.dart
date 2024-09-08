@@ -1,6 +1,6 @@
 import 'package:cloud_firestore/cloud_firestore.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
-import 'data/models/user.dart'; // Update the import path as needed
+import '../../data/models/user.dart'; // Update the import path as needed
 
 final userProvider = StreamProvider.autoDispose<User>((ref) {
   final firestore = FirebaseFirestore.instance;
