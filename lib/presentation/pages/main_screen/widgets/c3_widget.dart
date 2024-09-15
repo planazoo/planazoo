@@ -1,42 +1,79 @@
 import 'package:flutter/material.dart';
-import 'e10_widget.dart';
-import 'e11_widget.dart';
-import 'e12_widget.dart';
-import 'e3_widget.dart';
-import 'e5_widget.dart';
-import '../../../../core/colors.dart'; // Import the centralized colors
+import 'w5_widget.dart';  // W5 (Row 1, C3)
+import 'w6_widget.dart';  // W6 (Row 1, C3)
+import 'w7_widget.dart';  // W7 (Row 1, C3)
+import 'w8_widget.dart';  // W8 (Row 1, C3)
+import 'w9_widget.dart';  // W9 (Row 1, C3)
+import 'w10_widget.dart';  // W10 (Row 1, C3)
+import 'w11_widget.dart';  // W11 (Row 1, C3)
+import 'w12_widget.dart';  // W12 (Row 1, C3)
+import 'w14_widget.dart';  // W14 (Row 2, C3)
+import 'w15_widget.dart';  // W15 (Row 2, C3)
+import 'w16_widget.dart';  // W16 (Row 2, C3)
+import 'w17_widget.dart';  // W17 (Row 2, C3)
+import 'w18_widget.dart';  // W18 (Row 2, C3)
+import 'w19_widget.dart';  // W19 (Row 2, C3)
+import 'w20_widget.dart';  // W20 (Row 2, C3)
+import 'w21_widget.dart';  // W21 (Row 2, C3)
+import 'w22_widget.dart';  // W22 (Row 2, C3)
+import 'w23_widget.dart';  // W23 (Row 2, C3)
+import 'w24_widget.dart';  // W24 (Row 2, C3)
+import 'w30_widget.dart';  // W30 (Row 13, C3)
+import 'w31_widget.dart';  // W31 (Rows 3-12, C3)
 
 class C3Widget extends StatelessWidget {
-  final String? selectedPlanazoo; // Selected Planazoo
+  final String? selectedPlan;  // This holds the selected Planazoo
 
-  C3Widget({this.selectedPlanazoo});
+  const C3Widget({Key? key, required this.selectedPlan}) : super(key: key);
 
   @override
   Widget build(BuildContext context) {
     return Column(
       children: [
-        E3Widget(), // Header
+        // Row 1: Add widgets from W5 to W12 in a horizontal row
+        Row(
+          children: [
+            Flexible(child: W5Widget()),
+            Flexible(child: W6Widget()),
+            Flexible(child: W7Widget()),
+            Flexible(child: W8Widget()),
+            Flexible(child: W9Widget()),
+            Flexible(child: W10Widget()),
+            Flexible(child: W11Widget()),
+            Flexible(child: W12Widget()),
+          ],
+        ),
 
-        // Row 1: [E10] and [E11]
+        // Row 2: Add widgets from W14 to W24 in a horizontal row (W25 is hidden)
+        Row(
+          children: [
+            Flexible(child: W14Widget()),
+            Flexible(child: W15Widget()),
+            Flexible(child: W16Widget()),
+            Flexible(child: W17Widget()),
+            Flexible(child: W18Widget()),
+            Flexible(child: W19Widget()),
+            Flexible(child: W20Widget()),
+            Flexible(child: W21Widget()),
+            Flexible(child: W22Widget()),
+            Flexible(child: W23Widget()),
+            Flexible(child: W24Widget()),
+          ],
+        ),
+
+        // Rows 3 to 12: Show W31 (Main Planazoo details)
         Expanded(
-          flex: 1,
-          child: Row(
-            children: [
-              Expanded(
-                child: selectedPlanazoo != null
-                    ? E10Widget(planazoo: selectedPlanazoo!) // Display Planazoo details
-                    : Container(
-                        color: AppColors.color0,
-                        child: Center(child: Text("No Planazoo Selected")), // Placeholder when no plan is selected
-                      ),
-              ),
-              Expanded(child: E11Widget()), // Right column in first row
-            ],
+          flex: 9,
+          child: W31Widget(
+            planazoo: selectedPlan,  // Pass the selected plan
           ),
         ),
 
-        Expanded(flex: 2, child: E12Widget()), // Full-width row
-        E5Widget(), // Footer
+        // Row 13: Add W30 at the bottom of C3
+        Container(
+          height: 55,
+          child: W30Widget(),
+        ),
       ],
     );
   }

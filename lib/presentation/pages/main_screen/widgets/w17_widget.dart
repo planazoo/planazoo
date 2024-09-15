@@ -1,15 +1,17 @@
 import 'package:flutter/material.dart';
-import '../../../../core/colors.dart'; // Import the centralized colors
+import '../../../../core/colors.dart'; // Import centralized colors
 
-class E12Widget extends StatelessWidget {
+class W17Widget extends StatelessWidget {
+  const W17Widget({super.key});  // Use 'super.key' shorthand
+
   @override
   Widget build(BuildContext context) {
     return Container(
-      height: 100, // Fixed height for E12
-      color: AppColors.color3, // Background color for [E12]
+      height: 55, // Fixed height for W17
+      color: AppColors.color4, // Background color for W17 (Slate Gray)
       child: Center(
         child: Text(
-          'E12',
+          'W17',
           style: TextStyle(
             fontSize: 20,
             color: AppColors.color0, // White text color

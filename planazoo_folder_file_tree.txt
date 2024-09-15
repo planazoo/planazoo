@@ -1,0 +1,1357 @@
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.dart_tool
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.flutter-plugins
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.flutter-plugins-dependencies
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.git
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.gitignore
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.idea
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.metadata
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.vscode
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\analysis_options.yaml
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\android
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\build
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\ios
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\lib
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\linux
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\macos
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\planazoo.iml
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\planazoo_folder_file_tree.txt
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\pubspec.lock
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\pubspec.yaml
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\README.md
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\test
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\web
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\windows
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.dart_tool\chrome-device
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.dart_tool\dartpad
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.dart_tool\extension_discovery
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.dart_tool\package_config.json
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.dart_tool\package_config_subset
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.dart_tool\version
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.dart_tool\chrome-device\Default
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.dart_tool\chrome-device\Default\Affiliation Database
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.dart_tool\chrome-device\Default\Affiliation Database-journal
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.dart_tool\chrome-device\Default\AutofillStrikeDatabase
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.dart_tool\chrome-device\Default\blob_storage
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.dart_tool\chrome-device\Default\BrowsingTopicsSiteData
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.dart_tool\chrome-device\Default\BrowsingTopicsSiteData-journal
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.dart_tool\chrome-device\Default\BrowsingTopicsState
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.dart_tool\chrome-device\Default\BudgetDatabase
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.dart_tool\chrome-device\Default\c4836aa6-d647-46d0-9758-52abf066c732.tmp
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.dart_tool\chrome-device\Default\chrome_cart_db
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.dart_tool\chrome-device\Default\ClientCertificates
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.dart_tool\chrome-device\Default\commerce_subscription_db
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.dart_tool\chrome-device\Default\coupon_db
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.dart_tool\chrome-device\Default\DIPS
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.dart_tool\chrome-device\Default\DIPS-journal
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.dart_tool\chrome-device\Default\discounts_db
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.dart_tool\chrome-device\Default\Download Service
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.dart_tool\chrome-device\Default\Extension Rules
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.dart_tool\chrome-device\Default\Extension Scripts
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.dart_tool\chrome-device\Default\Extension State
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.dart_tool\chrome-device\Default\Favicons
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.dart_tool\chrome-device\Default\Favicons-journal
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.dart_tool\chrome-device\Default\Feature Engagement Tracker
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.dart_tool\chrome-device\Default\GCM Store
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.dart_tool\chrome-device\Default\heavy_ad_intervention_opt_out.db
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.dart_tool\chrome-device\Default\heavy_ad_intervention_opt_out.db-journal
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.dart_tool\chrome-device\Default\History
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.dart_tool\chrome-device\Default\History-journal
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.dart_tool\chrome-device\Default\IndexedDB
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.dart_tool\chrome-device\Default\Local Storage
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.dart_tool\chrome-device\Default\LOCK
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.dart_tool\chrome-device\Default\LOG
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.dart_tool\chrome-device\Default\LOG.old
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.dart_tool\chrome-device\Default\Login Data
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.dart_tool\chrome-device\Default\Login Data For Account
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.dart_tool\chrome-device\Default\Login Data For Account-journal
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.dart_tool\chrome-device\Default\Login Data-journal
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.dart_tool\chrome-device\Default\Network
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.dart_tool\chrome-device\Default\Network Action Predictor
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.dart_tool\chrome-device\Default\Network Action Predictor-journal
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.dart_tool\chrome-device\Default\optimization_guide_hint_cache_store
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.dart_tool\chrome-device\Default\parcel_tracking_db
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.dart_tool\chrome-device\Default\PersistentOriginTrials
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.dart_tool\chrome-device\Default\Preferences
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.dart_tool\chrome-device\Default\PreferredApps
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.dart_tool\chrome-device\Default\README
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.dart_tool\chrome-device\Default\Safe Browsing Network
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.dart_tool\chrome-device\Default\Secure Preferences
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.dart_tool\chrome-device\Default\Segmentation Platform
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.dart_tool\chrome-device\Default\Service Worker
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.dart_tool\chrome-device\Default\Session Storage
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.dart_tool\chrome-device\Default\Sessions
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.dart_tool\chrome-device\Default\Shared Dictionary
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.dart_tool\chrome-device\Default\SharedStorage
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.dart_tool\chrome-device\Default\SharedStorage-wal
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.dart_tool\chrome-device\Default\shared_proto_db
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.dart_tool\chrome-device\Default\Shortcuts
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.dart_tool\chrome-device\Default\Shortcuts-journal
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.dart_tool\chrome-device\Default\Site Characteristics Database
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.dart_tool\chrome-device\Default\Sync Data
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.dart_tool\chrome-device\Default\Top Sites
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.dart_tool\chrome-device\Default\Top Sites-journal
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.dart_tool\chrome-device\Default\trusted_vault.pb
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.dart_tool\chrome-device\Default\Visited Links
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.dart_tool\chrome-device\Default\Web Data
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.dart_tool\chrome-device\Default\Web Data-journal
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.dart_tool\chrome-device\Default\WebStorage
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.dart_tool\chrome-device\Default\AutofillStrikeDatabase\LOCK
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.dart_tool\chrome-device\Default\AutofillStrikeDatabase\LOG
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.dart_tool\chrome-device\Default\AutofillStrikeDatabase\LOG.old
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.dart_tool\chrome-device\Default\blob_storage\06268f0f-7326-49da-8fda-e76af8659840
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.dart_tool\chrome-device\Default\blob_storage\1469306c-679c-4711-b9b3-1a15ffe97773
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.dart_tool\chrome-device\Default\blob_storage\1ee1f0bc-2b17-4725-b094-ec206ac68110
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.dart_tool\chrome-device\Default\blob_storage\28a6216f-cd84-4e9e-ac60-a830c7877d15
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.dart_tool\chrome-device\Default\blob_storage\34a44bf5-3fa3-4389-b621-1c033dab4a80
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.dart_tool\chrome-device\Default\blob_storage\400c1f85-3071-44eb-a6d8-aa159d6ceaf7
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.dart_tool\chrome-device\Default\blob_storage\46cbc3d5-f0bf-4caa-94ff-1b7c13b3d571
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.dart_tool\chrome-device\Default\blob_storage\475f47ec-c786-4e29-bebe-ceb72d0a6c72
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.dart_tool\chrome-device\Default\blob_storage\525aab3b-4017-4ef2-8eb6-042d5e8b5af3
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.dart_tool\chrome-device\Default\blob_storage\581f2c03-1d23-470f-93b0-cdf8bde3993d
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.dart_tool\chrome-device\Default\blob_storage\59c12b03-bd2e-46a6-aea6-c86b1445be9d
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.dart_tool\chrome-device\Default\blob_storage\5a850fd0-8cd2-4e68-a25f-f017684836f0
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.dart_tool\chrome-device\Default\blob_storage\647e4219-f4cd-405d-b4f1-403e3466bfd9
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.dart_tool\chrome-device\Default\blob_storage\691cf735-0e33-41f1-b84c-76a98cc95d2f
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.dart_tool\chrome-device\Default\blob_storage\6e38197a-631c-4311-9ad8-e9cbbad92cd9
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.dart_tool\chrome-device\Default\blob_storage\6f220b8b-358f-46b2-b6c9-68c18337b6ee
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.dart_tool\chrome-device\Default\blob_storage\785ade51-c654-43b5-9004-7b87f4ba2c28
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.dart_tool\chrome-device\Default\blob_storage\7b14c9e5-c904-44c8-8522-62d63cf11c87
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.dart_tool\chrome-device\Default\blob_storage\7d4091a5-8091-4f8a-9825-bfd6ac003ea7
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.dart_tool\chrome-device\Default\blob_storage\7f3b6c7f-9d03-4ce4-af6e-8f090ac34f7c
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.dart_tool\chrome-device\Default\blob_storage\84f46b52-ca53-4c5c-8c99-725bad354875
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.dart_tool\chrome-device\Default\blob_storage\89631d57-7d37-4720-ad06-ab25baf34183
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.dart_tool\chrome-device\Default\blob_storage\8d7c0a2e-e1f9-4aae-88ea-c6df8392ed9e
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.dart_tool\chrome-device\Default\blob_storage\9192c008-79e8-4ec8-9415-36421d4bd14d
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.dart_tool\chrome-device\Default\blob_storage\9a722652-b884-4fe1-abd8-1a41caddfadf
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.dart_tool\chrome-device\Default\blob_storage\a3bdf563-52c5-4a94-96fb-f7752efb4bec
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.dart_tool\chrome-device\Default\blob_storage\a6317859-cdbc-4e38-ab84-8ddb9332879e
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.dart_tool\chrome-device\Default\blob_storage\b59973f3-7d81-4442-b203-1a80a3cc0ea3
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.dart_tool\chrome-device\Default\blob_storage\b846de7b-5353-4c3f-8826-db29a76670c7
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.dart_tool\chrome-device\Default\blob_storage\bcdadd4b-b54f-49be-9b44-9d1c244054a5
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.dart_tool\chrome-device\Default\blob_storage\bf14dcb2-415b-4082-b43a-ea592f33bbf9
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.dart_tool\chrome-device\Default\blob_storage\c5338f1d-9592-4298-97b3-53c649918d54
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.dart_tool\chrome-device\Default\blob_storage\c781a070-78da-4a52-b1a8-2657910bef7c
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.dart_tool\chrome-device\Default\blob_storage\cc7c8f26-4e7e-4b53-bc2d-0c01184c1df4
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.dart_tool\chrome-device\Default\blob_storage\d06123d4-3fe0-4a78-bf8b-c7bd626f5ed5
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.dart_tool\chrome-device\Default\blob_storage\d70fd491-c01e-4aa6-a95e-3d508f82aead
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.dart_tool\chrome-device\Default\blob_storage\d8e4e1dc-3bfd-4d66-9f9b-4f3fbc8b37b8
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.dart_tool\chrome-device\Default\blob_storage\e8378423-7922-495a-b654-0fecc6ebb90b
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.dart_tool\chrome-device\Default\blob_storage\eaae4392-ac14-4931-882a-11e2d73caf5f
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.dart_tool\chrome-device\Default\blob_storage\f355b3d8-1938-412d-968d-7b97b9d22d0f
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.dart_tool\chrome-device\Default\blob_storage\fd6408d4-0fe7-40d3-b553-7b6b9cddd22c
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.dart_tool\chrome-device\Default\BudgetDatabase\LOCK
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.dart_tool\chrome-device\Default\BudgetDatabase\LOG
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.dart_tool\chrome-device\Default\BudgetDatabase\LOG.old
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.dart_tool\chrome-device\Default\chrome_cart_db\LOCK
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.dart_tool\chrome-device\Default\chrome_cart_db\LOG
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.dart_tool\chrome-device\Default\chrome_cart_db\LOG.old
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.dart_tool\chrome-device\Default\ClientCertificates\LOCK
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.dart_tool\chrome-device\Default\ClientCertificates\LOG
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.dart_tool\chrome-device\Default\ClientCertificates\LOG.old
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.dart_tool\chrome-device\Default\commerce_subscription_db\LOCK
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.dart_tool\chrome-device\Default\commerce_subscription_db\LOG
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.dart_tool\chrome-device\Default\commerce_subscription_db\LOG.old
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.dart_tool\chrome-device\Default\coupon_db\LOCK
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.dart_tool\chrome-device\Default\coupon_db\LOG
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.dart_tool\chrome-device\Default\coupon_db\LOG.old
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.dart_tool\chrome-device\Default\discounts_db\LOCK
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.dart_tool\chrome-device\Default\discounts_db\LOG
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.dart_tool\chrome-device\Default\discounts_db\LOG.old
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.dart_tool\chrome-device\Default\Download Service\EntryDB
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.dart_tool\chrome-device\Default\Download Service\Files
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.dart_tool\chrome-device\Default\Download Service\EntryDB\LOCK
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.dart_tool\chrome-device\Default\Download Service\EntryDB\LOG
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.dart_tool\chrome-device\Default\Download Service\EntryDB\LOG.old
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.dart_tool\chrome-device\Default\Download Service\Files\1890cdc2-d6b2-4193-8a84-2a8a4ef3fb86
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.dart_tool\chrome-device\Default\Download Service\Files\1bfbde15-f551-4b52-8a21-ba9b95874396
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.dart_tool\chrome-device\Default\Download Service\Files\fcacb9fc-66d1-44b3-88b3-219e7e94c4fd
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.dart_tool\chrome-device\Default\Download Service\Files\Sin confirmar 548274.crdownload
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.dart_tool\chrome-device\Default\Extension Rules\000003.log
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.dart_tool\chrome-device\Default\Extension Rules\CURRENT
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.dart_tool\chrome-device\Default\Extension Rules\LOCK
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.dart_tool\chrome-device\Default\Extension Rules\LOG
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.dart_tool\chrome-device\Default\Extension Rules\MANIFEST-000001
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.dart_tool\chrome-device\Default\Extension Scripts\000003.log
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.dart_tool\chrome-device\Default\Extension Scripts\CURRENT
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.dart_tool\chrome-device\Default\Extension Scripts\LOCK
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.dart_tool\chrome-device\Default\Extension Scripts\LOG
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.dart_tool\chrome-device\Default\Extension Scripts\MANIFEST-000001
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.dart_tool\chrome-device\Default\Extension State\000003.log
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.dart_tool\chrome-device\Default\Extension State\CURRENT
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.dart_tool\chrome-device\Default\Extension State\LOCK
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.dart_tool\chrome-device\Default\Extension State\LOG
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.dart_tool\chrome-device\Default\Extension State\LOG.old
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.dart_tool\chrome-device\Default\Extension State\MANIFEST-000001
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.dart_tool\chrome-device\Default\Feature Engagement Tracker\AvailabilityDB
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.dart_tool\chrome-device\Default\Feature Engagement Tracker\EventDB
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.dart_tool\chrome-device\Default\Feature Engagement Tracker\AvailabilityDB\LOCK
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.dart_tool\chrome-device\Default\Feature Engagement Tracker\AvailabilityDB\LOG
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.dart_tool\chrome-device\Default\Feature Engagement Tracker\AvailabilityDB\LOG.old
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.dart_tool\chrome-device\Default\Feature Engagement Tracker\EventDB\LOCK
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.dart_tool\chrome-device\Default\Feature Engagement Tracker\EventDB\LOG
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.dart_tool\chrome-device\Default\Feature Engagement Tracker\EventDB\LOG.old
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.dart_tool\chrome-device\Default\GCM Store\Encryption
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.dart_tool\chrome-device\Default\GCM Store\Encryption\000003.log
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.dart_tool\chrome-device\Default\GCM Store\Encryption\CURRENT
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.dart_tool\chrome-device\Default\GCM Store\Encryption\LOCK
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.dart_tool\chrome-device\Default\GCM Store\Encryption\LOG
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.dart_tool\chrome-device\Default\GCM Store\Encryption\LOG.old
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.dart_tool\chrome-device\Default\GCM Store\Encryption\MANIFEST-000001
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.dart_tool\chrome-device\Default\IndexedDB\http_localhost_50262.indexeddb.leveldb
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.dart_tool\chrome-device\Default\IndexedDB\http_localhost_50378.indexeddb.leveldb
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.dart_tool\chrome-device\Default\IndexedDB\http_localhost_50484.indexeddb.leveldb
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.dart_tool\chrome-device\Default\IndexedDB\http_localhost_50555.indexeddb.leveldb
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.dart_tool\chrome-device\Default\IndexedDB\http_localhost_50576.indexeddb.leveldb
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.dart_tool\chrome-device\Default\IndexedDB\http_localhost_50906.indexeddb.leveldb
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.dart_tool\chrome-device\Default\IndexedDB\http_localhost_51197.indexeddb.leveldb
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.dart_tool\chrome-device\Default\IndexedDB\http_localhost_51201.indexeddb.leveldb
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.dart_tool\chrome-device\Default\IndexedDB\http_localhost_52197.indexeddb.leveldb
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.dart_tool\chrome-device\Default\IndexedDB\http_localhost_52507.indexeddb.leveldb
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.dart_tool\chrome-device\Default\IndexedDB\http_localhost_52774.indexeddb.leveldb
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.dart_tool\chrome-device\Default\IndexedDB\http_localhost_53111.indexeddb.leveldb
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.dart_tool\chrome-device\Default\IndexedDB\http_localhost_54930.indexeddb.leveldb
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.dart_tool\chrome-device\Default\IndexedDB\http_localhost_55331.indexeddb.leveldb
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.dart_tool\chrome-device\Default\IndexedDB\http_localhost_55624.indexeddb.leveldb
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.dart_tool\chrome-device\Default\IndexedDB\http_localhost_56458.indexeddb.leveldb
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.dart_tool\chrome-device\Default\IndexedDB\http_localhost_57467.indexeddb.leveldb
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.dart_tool\chrome-device\Default\IndexedDB\http_localhost_57761.indexeddb.leveldb
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.dart_tool\chrome-device\Default\IndexedDB\http_localhost_58012.indexeddb.leveldb
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.dart_tool\chrome-device\Default\IndexedDB\http_localhost_58118.indexeddb.leveldb
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.dart_tool\chrome-device\Default\IndexedDB\http_localhost_58327.indexeddb.leveldb
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.dart_tool\chrome-device\Default\IndexedDB\http_localhost_58603.indexeddb.leveldb
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.dart_tool\chrome-device\Default\IndexedDB\http_localhost_58801.indexeddb.leveldb
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.dart_tool\chrome-device\Default\IndexedDB\http_localhost_59438.indexeddb.leveldb
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.dart_tool\chrome-device\Default\IndexedDB\http_localhost_59857.indexeddb.leveldb
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.dart_tool\chrome-device\Default\IndexedDB\http_localhost_62253.indexeddb.leveldb
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.dart_tool\chrome-device\Default\IndexedDB\http_localhost_62512.indexeddb.leveldb
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.dart_tool\chrome-device\Default\IndexedDB\http_localhost_64773.indexeddb.leveldb
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.dart_tool\chrome-device\Default\IndexedDB\http_localhost_50262.indexeddb.leveldb\000004.log
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.dart_tool\chrome-device\Default\IndexedDB\http_localhost_50262.indexeddb.leveldb\000005.ldb
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.dart_tool\chrome-device\Default\IndexedDB\http_localhost_50262.indexeddb.leveldb\CURRENT
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.dart_tool\chrome-device\Default\IndexedDB\http_localhost_50262.indexeddb.leveldb\LOCK
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.dart_tool\chrome-device\Default\IndexedDB\http_localhost_50262.indexeddb.leveldb\LOG
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.dart_tool\chrome-device\Default\IndexedDB\http_localhost_50262.indexeddb.leveldb\MANIFEST-000001
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.dart_tool\chrome-device\Default\IndexedDB\http_localhost_50378.indexeddb.leveldb\000004.log
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.dart_tool\chrome-device\Default\IndexedDB\http_localhost_50378.indexeddb.leveldb\000005.ldb
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.dart_tool\chrome-device\Default\IndexedDB\http_localhost_50378.indexeddb.leveldb\CURRENT
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.dart_tool\chrome-device\Default\IndexedDB\http_localhost_50378.indexeddb.leveldb\LOCK
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.dart_tool\chrome-device\Default\IndexedDB\http_localhost_50378.indexeddb.leveldb\LOG
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.dart_tool\chrome-device\Default\IndexedDB\http_localhost_50378.indexeddb.leveldb\MANIFEST-000001
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.dart_tool\chrome-device\Default\IndexedDB\http_localhost_50484.indexeddb.leveldb\000004.log
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.dart_tool\chrome-device\Default\IndexedDB\http_localhost_50484.indexeddb.leveldb\000005.ldb
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.dart_tool\chrome-device\Default\IndexedDB\http_localhost_50484.indexeddb.leveldb\CURRENT
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.dart_tool\chrome-device\Default\IndexedDB\http_localhost_50484.indexeddb.leveldb\LOCK
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.dart_tool\chrome-device\Default\IndexedDB\http_localhost_50484.indexeddb.leveldb\LOG
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.dart_tool\chrome-device\Default\IndexedDB\http_localhost_50484.indexeddb.leveldb\MANIFEST-000001
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.dart_tool\chrome-device\Default\IndexedDB\http_localhost_50555.indexeddb.leveldb\000003.log
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.dart_tool\chrome-device\Default\IndexedDB\http_localhost_50555.indexeddb.leveldb\CURRENT
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.dart_tool\chrome-device\Default\IndexedDB\http_localhost_50555.indexeddb.leveldb\LOCK
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.dart_tool\chrome-device\Default\IndexedDB\http_localhost_50555.indexeddb.leveldb\LOG
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.dart_tool\chrome-device\Default\IndexedDB\http_localhost_50555.indexeddb.leveldb\MANIFEST-000001
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.dart_tool\chrome-device\Default\IndexedDB\http_localhost_50576.indexeddb.leveldb\000005.ldb
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.dart_tool\chrome-device\Default\IndexedDB\http_localhost_50576.indexeddb.leveldb\000007.log
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.dart_tool\chrome-device\Default\IndexedDB\http_localhost_50576.indexeddb.leveldb\000008.ldb
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.dart_tool\chrome-device\Default\IndexedDB\http_localhost_50576.indexeddb.leveldb\CURRENT
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.dart_tool\chrome-device\Default\IndexedDB\http_localhost_50576.indexeddb.leveldb\LOCK
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.dart_tool\chrome-device\Default\IndexedDB\http_localhost_50576.indexeddb.leveldb\LOG
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.dart_tool\chrome-device\Default\IndexedDB\http_localhost_50576.indexeddb.leveldb\LOG.old
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.dart_tool\chrome-device\Default\IndexedDB\http_localhost_50576.indexeddb.leveldb\MANIFEST-000001
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.dart_tool\chrome-device\Default\IndexedDB\http_localhost_50906.indexeddb.leveldb\000004.log
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.dart_tool\chrome-device\Default\IndexedDB\http_localhost_50906.indexeddb.leveldb\000005.ldb
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.dart_tool\chrome-device\Default\IndexedDB\http_localhost_50906.indexeddb.leveldb\CURRENT
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.dart_tool\chrome-device\Default\IndexedDB\http_localhost_50906.indexeddb.leveldb\LOCK
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.dart_tool\chrome-device\Default\IndexedDB\http_localhost_50906.indexeddb.leveldb\LOG
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.dart_tool\chrome-device\Default\IndexedDB\http_localhost_50906.indexeddb.leveldb\MANIFEST-000001
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.dart_tool\chrome-device\Default\IndexedDB\http_localhost_51197.indexeddb.leveldb\000004.log
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.dart_tool\chrome-device\Default\IndexedDB\http_localhost_51197.indexeddb.leveldb\000005.ldb
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.dart_tool\chrome-device\Default\IndexedDB\http_localhost_51197.indexeddb.leveldb\CURRENT
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.dart_tool\chrome-device\Default\IndexedDB\http_localhost_51197.indexeddb.leveldb\LOCK
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.dart_tool\chrome-device\Default\IndexedDB\http_localhost_51197.indexeddb.leveldb\LOG
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.dart_tool\chrome-device\Default\IndexedDB\http_localhost_51197.indexeddb.leveldb\LOG.old
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.dart_tool\chrome-device\Default\IndexedDB\http_localhost_51197.indexeddb.leveldb\MANIFEST-000001
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.dart_tool\chrome-device\Default\IndexedDB\http_localhost_51201.indexeddb.leveldb\000004.log
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.dart_tool\chrome-device\Default\IndexedDB\http_localhost_51201.indexeddb.leveldb\000005.ldb
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.dart_tool\chrome-device\Default\IndexedDB\http_localhost_51201.indexeddb.leveldb\CURRENT
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.dart_tool\chrome-device\Default\IndexedDB\http_localhost_51201.indexeddb.leveldb\LOCK
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.dart_tool\chrome-device\Default\IndexedDB\http_localhost_51201.indexeddb.leveldb\LOG
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.dart_tool\chrome-device\Default\IndexedDB\http_localhost_51201.indexeddb.leveldb\MANIFEST-000001
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.dart_tool\chrome-device\Default\IndexedDB\http_localhost_52197.indexeddb.leveldb\000004.log
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.dart_tool\chrome-device\Default\IndexedDB\http_localhost_52197.indexeddb.leveldb\000005.ldb
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.dart_tool\chrome-device\Default\IndexedDB\http_localhost_52197.indexeddb.leveldb\CURRENT
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.dart_tool\chrome-device\Default\IndexedDB\http_localhost_52197.indexeddb.leveldb\LOCK
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.dart_tool\chrome-device\Default\IndexedDB\http_localhost_52197.indexeddb.leveldb\LOG
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.dart_tool\chrome-device\Default\IndexedDB\http_localhost_52197.indexeddb.leveldb\MANIFEST-000001
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.dart_tool\chrome-device\Default\IndexedDB\http_localhost_52507.indexeddb.leveldb\000011.log
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.dart_tool\chrome-device\Default\IndexedDB\http_localhost_52507.indexeddb.leveldb\000013.ldb
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.dart_tool\chrome-device\Default\IndexedDB\http_localhost_52507.indexeddb.leveldb\CURRENT
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.dart_tool\chrome-device\Default\IndexedDB\http_localhost_52507.indexeddb.leveldb\LOCK
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.dart_tool\chrome-device\Default\IndexedDB\http_localhost_52507.indexeddb.leveldb\LOG
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.dart_tool\chrome-device\Default\IndexedDB\http_localhost_52507.indexeddb.leveldb\LOG.old
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.dart_tool\chrome-device\Default\IndexedDB\http_localhost_52507.indexeddb.leveldb\MANIFEST-000001
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.dart_tool\chrome-device\Default\IndexedDB\http_localhost_52774.indexeddb.leveldb\000004.log
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.dart_tool\chrome-device\Default\IndexedDB\http_localhost_52774.indexeddb.leveldb\000005.ldb
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.dart_tool\chrome-device\Default\IndexedDB\http_localhost_52774.indexeddb.leveldb\CURRENT
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.dart_tool\chrome-device\Default\IndexedDB\http_localhost_52774.indexeddb.leveldb\LOCK
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.dart_tool\chrome-device\Default\IndexedDB\http_localhost_52774.indexeddb.leveldb\LOG
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.dart_tool\chrome-device\Default\IndexedDB\http_localhost_52774.indexeddb.leveldb\LOG.old
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.dart_tool\chrome-device\Default\IndexedDB\http_localhost_52774.indexeddb.leveldb\MANIFEST-000001
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.dart_tool\chrome-device\Default\IndexedDB\http_localhost_53111.indexeddb.leveldb\000014.log
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.dart_tool\chrome-device\Default\IndexedDB\http_localhost_53111.indexeddb.leveldb\000016.ldb
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.dart_tool\chrome-device\Default\IndexedDB\http_localhost_53111.indexeddb.leveldb\CURRENT
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.dart_tool\chrome-device\Default\IndexedDB\http_localhost_53111.indexeddb.leveldb\LOCK
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.dart_tool\chrome-device\Default\IndexedDB\http_localhost_53111.indexeddb.leveldb\LOG
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.dart_tool\chrome-device\Default\IndexedDB\http_localhost_53111.indexeddb.leveldb\LOG.old
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.dart_tool\chrome-device\Default\IndexedDB\http_localhost_53111.indexeddb.leveldb\MANIFEST-000001
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.dart_tool\chrome-device\Default\IndexedDB\http_localhost_54930.indexeddb.leveldb\000005.ldb
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.dart_tool\chrome-device\Default\IndexedDB\http_localhost_54930.indexeddb.leveldb\000007.log
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.dart_tool\chrome-device\Default\IndexedDB\http_localhost_54930.indexeddb.leveldb\000008.ldb
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.dart_tool\chrome-device\Default\IndexedDB\http_localhost_54930.indexeddb.leveldb\CURRENT
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.dart_tool\chrome-device\Default\IndexedDB\http_localhost_54930.indexeddb.leveldb\LOCK
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.dart_tool\chrome-device\Default\IndexedDB\http_localhost_54930.indexeddb.leveldb\LOG
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.dart_tool\chrome-device\Default\IndexedDB\http_localhost_54930.indexeddb.leveldb\LOG.old
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.dart_tool\chrome-device\Default\IndexedDB\http_localhost_54930.indexeddb.leveldb\MANIFEST-000001
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.dart_tool\chrome-device\Default\IndexedDB\http_localhost_55331.indexeddb.leveldb\000004.log
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.dart_tool\chrome-device\Default\IndexedDB\http_localhost_55331.indexeddb.leveldb\000005.ldb
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.dart_tool\chrome-device\Default\IndexedDB\http_localhost_55331.indexeddb.leveldb\CURRENT
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.dart_tool\chrome-device\Default\IndexedDB\http_localhost_55331.indexeddb.leveldb\LOCK
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.dart_tool\chrome-device\Default\IndexedDB\http_localhost_55331.indexeddb.leveldb\LOG
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.dart_tool\chrome-device\Default\IndexedDB\http_localhost_55331.indexeddb.leveldb\MANIFEST-000001
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.dart_tool\chrome-device\Default\IndexedDB\http_localhost_55624.indexeddb.leveldb\000011.log
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.dart_tool\chrome-device\Default\IndexedDB\http_localhost_55624.indexeddb.leveldb\000013.ldb
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.dart_tool\chrome-device\Default\IndexedDB\http_localhost_55624.indexeddb.leveldb\CURRENT
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.dart_tool\chrome-device\Default\IndexedDB\http_localhost_55624.indexeddb.leveldb\LOCK
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.dart_tool\chrome-device\Default\IndexedDB\http_localhost_55624.indexeddb.leveldb\LOG
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.dart_tool\chrome-device\Default\IndexedDB\http_localhost_55624.indexeddb.leveldb\LOG.old
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.dart_tool\chrome-device\Default\IndexedDB\http_localhost_55624.indexeddb.leveldb\MANIFEST-000001
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.dart_tool\chrome-device\Default\IndexedDB\http_localhost_56458.indexeddb.leveldb\000004.log
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.dart_tool\chrome-device\Default\IndexedDB\http_localhost_56458.indexeddb.leveldb\000005.ldb
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.dart_tool\chrome-device\Default\IndexedDB\http_localhost_56458.indexeddb.leveldb\CURRENT
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.dart_tool\chrome-device\Default\IndexedDB\http_localhost_56458.indexeddb.leveldb\LOCK
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.dart_tool\chrome-device\Default\IndexedDB\http_localhost_56458.indexeddb.leveldb\LOG
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.dart_tool\chrome-device\Default\IndexedDB\http_localhost_56458.indexeddb.leveldb\MANIFEST-000001
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.dart_tool\chrome-device\Default\IndexedDB\http_localhost_57467.indexeddb.leveldb\000004.log
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.dart_tool\chrome-device\Default\IndexedDB\http_localhost_57467.indexeddb.leveldb\000005.ldb
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.dart_tool\chrome-device\Default\IndexedDB\http_localhost_57467.indexeddb.leveldb\CURRENT
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.dart_tool\chrome-device\Default\IndexedDB\http_localhost_57467.indexeddb.leveldb\LOCK
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.dart_tool\chrome-device\Default\IndexedDB\http_localhost_57467.indexeddb.leveldb\LOG
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.dart_tool\chrome-device\Default\IndexedDB\http_localhost_57467.indexeddb.leveldb\MANIFEST-000001
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.dart_tool\chrome-device\Default\IndexedDB\http_localhost_57761.indexeddb.leveldb\000008.ldb
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.dart_tool\chrome-device\Default\IndexedDB\http_localhost_57761.indexeddb.leveldb\000011.ldb
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.dart_tool\chrome-device\Default\IndexedDB\http_localhost_57761.indexeddb.leveldb\000013.log
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.dart_tool\chrome-device\Default\IndexedDB\http_localhost_57761.indexeddb.leveldb\000015.ldb
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.dart_tool\chrome-device\Default\IndexedDB\http_localhost_57761.indexeddb.leveldb\CURRENT
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.dart_tool\chrome-device\Default\IndexedDB\http_localhost_57761.indexeddb.leveldb\LOCK
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.dart_tool\chrome-device\Default\IndexedDB\http_localhost_57761.indexeddb.leveldb\LOG
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.dart_tool\chrome-device\Default\IndexedDB\http_localhost_57761.indexeddb.leveldb\LOG.old
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.dart_tool\chrome-device\Default\IndexedDB\http_localhost_57761.indexeddb.leveldb\MANIFEST-000001
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.dart_tool\chrome-device\Default\IndexedDB\http_localhost_58012.indexeddb.leveldb\000004.log
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.dart_tool\chrome-device\Default\IndexedDB\http_localhost_58012.indexeddb.leveldb\000005.ldb
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.dart_tool\chrome-device\Default\IndexedDB\http_localhost_58012.indexeddb.leveldb\CURRENT
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.dart_tool\chrome-device\Default\IndexedDB\http_localhost_58012.indexeddb.leveldb\LOCK
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.dart_tool\chrome-device\Default\IndexedDB\http_localhost_58012.indexeddb.leveldb\LOG
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.dart_tool\chrome-device\Default\IndexedDB\http_localhost_58012.indexeddb.leveldb\MANIFEST-000001
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.dart_tool\chrome-device\Default\IndexedDB\http_localhost_58118.indexeddb.leveldb\000004.log
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.dart_tool\chrome-device\Default\IndexedDB\http_localhost_58118.indexeddb.leveldb\000005.ldb
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.dart_tool\chrome-device\Default\IndexedDB\http_localhost_58118.indexeddb.leveldb\CURRENT
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.dart_tool\chrome-device\Default\IndexedDB\http_localhost_58118.indexeddb.leveldb\LOCK
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.dart_tool\chrome-device\Default\IndexedDB\http_localhost_58118.indexeddb.leveldb\LOG
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.dart_tool\chrome-device\Default\IndexedDB\http_localhost_58118.indexeddb.leveldb\LOG.old
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.dart_tool\chrome-device\Default\IndexedDB\http_localhost_58118.indexeddb.leveldb\MANIFEST-000001
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.dart_tool\chrome-device\Default\IndexedDB\http_localhost_58327.indexeddb.leveldb\000003.log
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.dart_tool\chrome-device\Default\IndexedDB\http_localhost_58327.indexeddb.leveldb\CURRENT
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.dart_tool\chrome-device\Default\IndexedDB\http_localhost_58327.indexeddb.leveldb\LOCK
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.dart_tool\chrome-device\Default\IndexedDB\http_localhost_58327.indexeddb.leveldb\LOG
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.dart_tool\chrome-device\Default\IndexedDB\http_localhost_58327.indexeddb.leveldb\MANIFEST-000001
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.dart_tool\chrome-device\Default\IndexedDB\http_localhost_58603.indexeddb.leveldb\000003.log
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.dart_tool\chrome-device\Default\IndexedDB\http_localhost_58603.indexeddb.leveldb\CURRENT
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.dart_tool\chrome-device\Default\IndexedDB\http_localhost_58603.indexeddb.leveldb\LOCK
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.dart_tool\chrome-device\Default\IndexedDB\http_localhost_58603.indexeddb.leveldb\LOG
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.dart_tool\chrome-device\Default\IndexedDB\http_localhost_58603.indexeddb.leveldb\MANIFEST-000001
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.dart_tool\chrome-device\Default\IndexedDB\http_localhost_58801.indexeddb.leveldb\000006.log
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.dart_tool\chrome-device\Default\IndexedDB\http_localhost_58801.indexeddb.leveldb\000008.ldb
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.dart_tool\chrome-device\Default\IndexedDB\http_localhost_58801.indexeddb.leveldb\CURRENT
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.dart_tool\chrome-device\Default\IndexedDB\http_localhost_58801.indexeddb.leveldb\LOCK
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.dart_tool\chrome-device\Default\IndexedDB\http_localhost_58801.indexeddb.leveldb\LOG
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.dart_tool\chrome-device\Default\IndexedDB\http_localhost_58801.indexeddb.leveldb\LOG.old
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.dart_tool\chrome-device\Default\IndexedDB\http_localhost_58801.indexeddb.leveldb\MANIFEST-000001
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.dart_tool\chrome-device\Default\IndexedDB\http_localhost_59438.indexeddb.leveldb\000004.log
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.dart_tool\chrome-device\Default\IndexedDB\http_localhost_59438.indexeddb.leveldb\000005.ldb
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.dart_tool\chrome-device\Default\IndexedDB\http_localhost_59438.indexeddb.leveldb\CURRENT
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.dart_tool\chrome-device\Default\IndexedDB\http_localhost_59438.indexeddb.leveldb\LOCK
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.dart_tool\chrome-device\Default\IndexedDB\http_localhost_59438.indexeddb.leveldb\LOG
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.dart_tool\chrome-device\Default\IndexedDB\http_localhost_59438.indexeddb.leveldb\MANIFEST-000001
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.dart_tool\chrome-device\Default\IndexedDB\http_localhost_59857.indexeddb.leveldb\000004.log
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.dart_tool\chrome-device\Default\IndexedDB\http_localhost_59857.indexeddb.leveldb\000005.ldb
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.dart_tool\chrome-device\Default\IndexedDB\http_localhost_59857.indexeddb.leveldb\CURRENT
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.dart_tool\chrome-device\Default\IndexedDB\http_localhost_59857.indexeddb.leveldb\LOCK
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.dart_tool\chrome-device\Default\IndexedDB\http_localhost_59857.indexeddb.leveldb\LOG
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.dart_tool\chrome-device\Default\IndexedDB\http_localhost_59857.indexeddb.leveldb\MANIFEST-000001
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.dart_tool\chrome-device\Default\IndexedDB\http_localhost_62253.indexeddb.leveldb\000007.log
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.dart_tool\chrome-device\Default\IndexedDB\http_localhost_62253.indexeddb.leveldb\000009.ldb
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.dart_tool\chrome-device\Default\IndexedDB\http_localhost_62253.indexeddb.leveldb\CURRENT
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.dart_tool\chrome-device\Default\IndexedDB\http_localhost_62253.indexeddb.leveldb\LOCK
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.dart_tool\chrome-device\Default\IndexedDB\http_localhost_62253.indexeddb.leveldb\LOG
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.dart_tool\chrome-device\Default\IndexedDB\http_localhost_62253.indexeddb.leveldb\LOG.old
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.dart_tool\chrome-device\Default\IndexedDB\http_localhost_62253.indexeddb.leveldb\MANIFEST-000001
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.dart_tool\chrome-device\Default\IndexedDB\http_localhost_62512.indexeddb.leveldb\000004.log
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.dart_tool\chrome-device\Default\IndexedDB\http_localhost_62512.indexeddb.leveldb\000005.ldb
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.dart_tool\chrome-device\Default\IndexedDB\http_localhost_62512.indexeddb.leveldb\CURRENT
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.dart_tool\chrome-device\Default\IndexedDB\http_localhost_62512.indexeddb.leveldb\LOCK
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.dart_tool\chrome-device\Default\IndexedDB\http_localhost_62512.indexeddb.leveldb\LOG
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.dart_tool\chrome-device\Default\IndexedDB\http_localhost_62512.indexeddb.leveldb\MANIFEST-000001
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.dart_tool\chrome-device\Default\IndexedDB\http_localhost_64773.indexeddb.leveldb\000005.ldb
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.dart_tool\chrome-device\Default\IndexedDB\http_localhost_64773.indexeddb.leveldb\000007.log
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.dart_tool\chrome-device\Default\IndexedDB\http_localhost_64773.indexeddb.leveldb\000008.ldb
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.dart_tool\chrome-device\Default\IndexedDB\http_localhost_64773.indexeddb.leveldb\CURRENT
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.dart_tool\chrome-device\Default\IndexedDB\http_localhost_64773.indexeddb.leveldb\LOCK
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.dart_tool\chrome-device\Default\IndexedDB\http_localhost_64773.indexeddb.leveldb\LOG
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.dart_tool\chrome-device\Default\IndexedDB\http_localhost_64773.indexeddb.leveldb\LOG.old
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.dart_tool\chrome-device\Default\IndexedDB\http_localhost_64773.indexeddb.leveldb\MANIFEST-000001
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.dart_tool\chrome-device\Default\Local Storage\leveldb
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.dart_tool\chrome-device\Default\Local Storage\leveldb\000003.log
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.dart_tool\chrome-device\Default\Local Storage\leveldb\CURRENT
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.dart_tool\chrome-device\Default\Local Storage\leveldb\LOCK
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.dart_tool\chrome-device\Default\Local Storage\leveldb\LOG
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.dart_tool\chrome-device\Default\Local Storage\leveldb\LOG.old
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.dart_tool\chrome-device\Default\Local Storage\leveldb\MANIFEST-000001
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.dart_tool\chrome-device\Default\Network\Cookies
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.dart_tool\chrome-device\Default\Network\Cookies-journal
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.dart_tool\chrome-device\Default\Network\Network Persistent State
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.dart_tool\chrome-device\Default\Network\Network Persistent State~RF39d00c8.TMP
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.dart_tool\chrome-device\Default\Network\NetworkDataMigrated
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.dart_tool\chrome-device\Default\Network\Reporting and NEL
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.dart_tool\chrome-device\Default\Network\Reporting and NEL-journal
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.dart_tool\chrome-device\Default\Network\TransportSecurity
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.dart_tool\chrome-device\Default\Network\Trust Tokens
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.dart_tool\chrome-device\Default\Network\Trust Tokens-journal
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.dart_tool\chrome-device\Default\optimization_guide_hint_cache_store\LOCK
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.dart_tool\chrome-device\Default\optimization_guide_hint_cache_store\LOG
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.dart_tool\chrome-device\Default\optimization_guide_hint_cache_store\LOG.old
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.dart_tool\chrome-device\Default\parcel_tracking_db\LOCK
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.dart_tool\chrome-device\Default\parcel_tracking_db\LOG
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.dart_tool\chrome-device\Default\parcel_tracking_db\LOG.old
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.dart_tool\chrome-device\Default\PersistentOriginTrials\LOCK
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.dart_tool\chrome-device\Default\PersistentOriginTrials\LOG
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.dart_tool\chrome-device\Default\PersistentOriginTrials\LOG.old
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.dart_tool\chrome-device\Default\Safe Browsing Network\NetworkDataMigrated
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.dart_tool\chrome-device\Default\Safe Browsing Network\Safe Browsing Cookies
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.dart_tool\chrome-device\Default\Safe Browsing Network\Safe Browsing Cookies-journal
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.dart_tool\chrome-device\Default\Segmentation Platform\SegmentInfoDB
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.dart_tool\chrome-device\Default\Segmentation Platform\SignalDB
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.dart_tool\chrome-device\Default\Segmentation Platform\SignalStorageConfigDB
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.dart_tool\chrome-device\Default\Segmentation Platform\SegmentInfoDB\LOCK
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.dart_tool\chrome-device\Default\Segmentation Platform\SegmentInfoDB\LOG
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.dart_tool\chrome-device\Default\Segmentation Platform\SegmentInfoDB\LOG.old
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.dart_tool\chrome-device\Default\Segmentation Platform\SignalDB\LOCK
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.dart_tool\chrome-device\Default\Segmentation Platform\SignalDB\LOG
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.dart_tool\chrome-device\Default\Segmentation Platform\SignalDB\LOG.old
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.dart_tool\chrome-device\Default\Segmentation Platform\SignalStorageConfigDB\LOCK
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.dart_tool\chrome-device\Default\Segmentation Platform\SignalStorageConfigDB\LOG
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.dart_tool\chrome-device\Default\Segmentation Platform\SignalStorageConfigDB\LOG.old
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.dart_tool\chrome-device\Default\Service Worker\Database
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.dart_tool\chrome-device\Default\Service Worker\ScriptCache
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.dart_tool\chrome-device\Default\Service Worker\Database\000003.log
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.dart_tool\chrome-device\Default\Service Worker\Database\CURRENT
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.dart_tool\chrome-device\Default\Service Worker\Database\LOCK
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.dart_tool\chrome-device\Default\Service Worker\Database\LOG
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.dart_tool\chrome-device\Default\Service Worker\Database\LOG.old
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.dart_tool\chrome-device\Default\Service Worker\Database\MANIFEST-000001
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.dart_tool\chrome-device\Default\Service Worker\ScriptCache\013888a1cda32b90_0
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.dart_tool\chrome-device\Default\Service Worker\ScriptCache\035aa9dff41235ca_0
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.dart_tool\chrome-device\Default\Service Worker\ScriptCache\08b99d499107ba17_0
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.dart_tool\chrome-device\Default\Service Worker\ScriptCache\0ae129c33e7a30bd_0
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.dart_tool\chrome-device\Default\Service Worker\ScriptCache\0d3086d7cda635d4_0
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.dart_tool\chrome-device\Default\Service Worker\ScriptCache\23469ac906fcc612_0
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.dart_tool\chrome-device\Default\Service Worker\ScriptCache\2687cdb408524ecb_0
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.dart_tool\chrome-device\Default\Service Worker\ScriptCache\297ecea5cebb5dfe_0
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.dart_tool\chrome-device\Default\Service Worker\ScriptCache\2a0afd649b00527b_0
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.dart_tool\chrome-device\Default\Service Worker\ScriptCache\2beb0213504d07fc_0
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.dart_tool\chrome-device\Default\Service Worker\ScriptCache\2cc80dabc69f58b6_0
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.dart_tool\chrome-device\Default\Service Worker\ScriptCache\3ef2ebed6c12e1f6_0
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.dart_tool\chrome-device\Default\Service Worker\ScriptCache\45c2f2fcb9072b47_0
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.dart_tool\chrome-device\Default\Service Worker\ScriptCache\4cb013792b196a35_0
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.dart_tool\chrome-device\Default\Service Worker\ScriptCache\653e56b4b6556a9e_0
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.dart_tool\chrome-device\Default\Service Worker\ScriptCache\67a473248953641b_0
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.dart_tool\chrome-device\Default\Service Worker\ScriptCache\6c038e3570d6abf1_0
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.dart_tool\chrome-device\Default\Service Worker\ScriptCache\6f8ac775dbbd7415_0
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.dart_tool\chrome-device\Default\Service Worker\ScriptCache\6fc459ba53cb570a_0
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.dart_tool\chrome-device\Default\Service Worker\ScriptCache\7b4fd8111178d5b1_0
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.dart_tool\chrome-device\Default\Service Worker\ScriptCache\83efbe48d0097388_0
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.dart_tool\chrome-device\Default\Service Worker\ScriptCache\8a729281c4672a97_0
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.dart_tool\chrome-device\Default\Service Worker\ScriptCache\91baa182c7a11977_0
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.dart_tool\chrome-device\Default\Service Worker\ScriptCache\ad0c92dfa52e69b6_0
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.dart_tool\chrome-device\Default\Service Worker\ScriptCache\afe1e5264eea33bc_0
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.dart_tool\chrome-device\Default\Service Worker\ScriptCache\b2efa64ecb36f8f1_0
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.dart_tool\chrome-device\Default\Service Worker\ScriptCache\b3bd0d67f800d222_0
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.dart_tool\chrome-device\Default\Service Worker\ScriptCache\b6c28cea6ed9dfc1_0
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.dart_tool\chrome-device\Default\Service Worker\ScriptCache\ba23d8ecda68de77_0
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.dart_tool\chrome-device\Default\Service Worker\ScriptCache\ce2a2172c04b134d_0
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.dart_tool\chrome-device\Default\Service Worker\ScriptCache\d0757ff92c7cde0a_0
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.dart_tool\chrome-device\Default\Service Worker\ScriptCache\d10f805e771d7acb_0
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.dart_tool\chrome-device\Default\Service Worker\ScriptCache\e0d37c7e54672663_0
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.dart_tool\chrome-device\Default\Service Worker\ScriptCache\f0de8c2de34c385b_0
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.dart_tool\chrome-device\Default\Service Worker\ScriptCache\f13a76bbf6c7f0b3_0
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.dart_tool\chrome-device\Default\Service Worker\ScriptCache\f1cdccba37924bda_0
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.dart_tool\chrome-device\Default\Service Worker\ScriptCache\f3ab1e1292e135fa_0
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.dart_tool\chrome-device\Default\Service Worker\ScriptCache\f76ccbbbd72a0391_0
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.dart_tool\chrome-device\Default\Service Worker\ScriptCache\fa813c9ad67834ac_0
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.dart_tool\chrome-device\Default\Service Worker\ScriptCache\fb1f328d70d91607_0
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.dart_tool\chrome-device\Default\Service Worker\ScriptCache\index
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.dart_tool\chrome-device\Default\Service Worker\ScriptCache\index-dir
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.dart_tool\chrome-device\Default\Service Worker\ScriptCache\index-dir\temp-index
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.dart_tool\chrome-device\Default\Service Worker\ScriptCache\index-dir\the-real-index
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.dart_tool\chrome-device\Default\Session Storage\000003.log
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.dart_tool\chrome-device\Default\Session Storage\CURRENT
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.dart_tool\chrome-device\Default\Session Storage\LOCK
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.dart_tool\chrome-device\Default\Session Storage\LOG
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.dart_tool\chrome-device\Default\Session Storage\LOG.old
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.dart_tool\chrome-device\Default\Session Storage\MANIFEST-000001
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.dart_tool\chrome-device\Default\Sessions\Session_13370140079477338
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.dart_tool\chrome-device\Default\Sessions\Session_13370140354052734
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.dart_tool\chrome-device\Default\Sessions\Session_13370140866937326
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.dart_tool\chrome-device\Default\Sessions\Session_13370141192640494
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.dart_tool\chrome-device\Default\Sessions\Session_13370141749905973
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.dart_tool\chrome-device\Default\Sessions\Session_13370142106001804
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.dart_tool\chrome-device\Default\Sessions\Session_13370142266921964
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.dart_tool\chrome-device\Default\Sessions\Session_13370142472559618
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.dart_tool\chrome-device\Default\Sessions\Session_13370142735911715
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.dart_tool\chrome-device\Default\Sessions\Session_13370207911016528
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.dart_tool\chrome-device\Default\Sessions\Session_13370208086407295
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.dart_tool\chrome-device\Default\Sessions\Session_13370208814892015
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.dart_tool\chrome-device\Default\Sessions\Session_13370211606804626
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.dart_tool\chrome-device\Default\Sessions\Session_13370211802383606
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.dart_tool\chrome-device\Default\Sessions\Session_13370211954141514
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.dart_tool\chrome-device\Default\Sessions\Session_13370212882986301
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.dart_tool\chrome-device\Default\Sessions\Session_13370265581995669
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.dart_tool\chrome-device\Default\Sessions\Session_13370266063348483
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.dart_tool\chrome-device\Default\Sessions\Session_13370267413163945
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.dart_tool\chrome-device\Default\Sessions\Session_13370268664303003
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.dart_tool\chrome-device\Default\Sessions\Session_13370269441315853
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.dart_tool\chrome-device\Default\Sessions\Session_13370269649571991
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.dart_tool\chrome-device\Default\Sessions\Session_13370269927054547
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.dart_tool\chrome-device\Default\Sessions\Session_13370270211285033
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.dart_tool\chrome-device\Default\Sessions\Session_13370271033977263
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.dart_tool\chrome-device\Default\Sessions\Session_13370271252243381
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.dart_tool\chrome-device\Default\Sessions\Session_13370278582872735
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.dart_tool\chrome-device\Default\Sessions\Session_13370279406664619
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.dart_tool\chrome-device\Default\Sessions\Session_13370280412976450
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.dart_tool\chrome-device\Default\Sessions\Session_13370280765781909
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.dart_tool\chrome-device\Default\Sessions\Session_13370281522388957
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.dart_tool\chrome-device\Default\Sessions\Session_13370283332174844
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.dart_tool\chrome-device\Default\Sessions\Session_13370283712401264
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.dart_tool\chrome-device\Default\Sessions\Session_13370284286460637
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.dart_tool\chrome-device\Default\Sessions\Session_13370284865217360
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.dart_tool\chrome-device\Default\Sessions\Session_13370286007851117
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.dart_tool\chrome-device\Default\Sessions\Session_13370286862435632
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.dart_tool\chrome-device\Default\Sessions\Session_13370287330216665
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.dart_tool\chrome-device\Default\Sessions\Session_13370287388428773
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.dart_tool\chrome-device\Default\Sessions\Session_13370288780148676
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.dart_tool\chrome-device\Default\Sessions\Session_13370289003262331
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.dart_tool\chrome-device\Default\Sessions\Session_13370289618410939
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.dart_tool\chrome-device\Default\Sessions\Session_13370291502387645
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.dart_tool\chrome-device\Default\Sessions\Session_13370293037076880
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.dart_tool\chrome-device\Default\Sessions\Session_13370294138115789
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.dart_tool\chrome-device\Default\Sessions\Session_13370294878086409
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.dart_tool\chrome-device\Default\Sessions\Tabs_13370140370958367
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.dart_tool\chrome-device\Default\Sessions\Tabs_13370269474184753
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.dart_tool\chrome-device\Default\Sessions\Tabs_13370279357057927
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.dart_tool\chrome-device\Default\Sessions\Tabs_13370279406854109
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.dart_tool\chrome-device\Default\Sessions\Tabs_13370280413157837
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.dart_tool\chrome-device\Default\Sessions\Tabs_13370280765954271
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.dart_tool\chrome-device\Default\Sessions\Tabs_13370281522573826
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.dart_tool\chrome-device\Default\Sessions\Tabs_13370283332360559
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.dart_tool\chrome-device\Default\Sessions\Tabs_13370283712592154
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.dart_tool\chrome-device\Default\Sessions\Tabs_13370284286653376
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.dart_tool\chrome-device\Default\Sessions\Tabs_13370284865481448
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.dart_tool\chrome-device\Default\Sessions\Tabs_13370286008023447
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.dart_tool\chrome-device\Default\Sessions\Tabs_13370287330355224
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.dart_tool\chrome-device\Default\Sessions\Tabs_13370288780340606
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.dart_tool\chrome-device\Default\Sessions\Tabs_13370289003393257
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.dart_tool\chrome-device\Default\Sessions\Tabs_13370290304068926
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.dart_tool\chrome-device\Default\Sessions\Tabs_13370294138260389
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.dart_tool\chrome-device\Default\Sessions\Tabs_13370294878232803
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.dart_tool\chrome-device\Default\Shared Dictionary\cache
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.dart_tool\chrome-device\Default\Shared Dictionary\db
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.dart_tool\chrome-device\Default\Shared Dictionary\db-journal
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.dart_tool\chrome-device\Default\Shared Dictionary\cache\index
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.dart_tool\chrome-device\Default\Shared Dictionary\cache\index-dir
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.dart_tool\chrome-device\Default\Shared Dictionary\cache\index-dir\the-real-index
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.dart_tool\chrome-device\Default\shared_proto_db\000003.log
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.dart_tool\chrome-device\Default\shared_proto_db\000004.log
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.dart_tool\chrome-device\Default\shared_proto_db\000005.ldb
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.dart_tool\chrome-device\Default\shared_proto_db\000007.log
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.dart_tool\chrome-device\Default\shared_proto_db\000008.ldb
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.dart_tool\chrome-device\Default\shared_proto_db\000010.log
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.dart_tool\chrome-device\Default\shared_proto_db\000011.ldb
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.dart_tool\chrome-device\Default\shared_proto_db\000013.log
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.dart_tool\chrome-device\Default\shared_proto_db\000014.ldb
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.dart_tool\chrome-device\Default\shared_proto_db\000016.log
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.dart_tool\chrome-device\Default\shared_proto_db\000017.ldb
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.dart_tool\chrome-device\Default\shared_proto_db\000019.log
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.dart_tool\chrome-device\Default\shared_proto_db\000021.ldb
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.dart_tool\chrome-device\Default\shared_proto_db\000023.log
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.dart_tool\chrome-device\Default\shared_proto_db\000024.ldb
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.dart_tool\chrome-device\Default\shared_proto_db\CURRENT
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.dart_tool\chrome-device\Default\shared_proto_db\LOCK
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.dart_tool\chrome-device\Default\shared_proto_db\LOG
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.dart_tool\chrome-device\Default\shared_proto_db\LOG.old
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.dart_tool\chrome-device\Default\shared_proto_db\MANIFEST-000001
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.dart_tool\chrome-device\Default\shared_proto_db\metadata
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.dart_tool\chrome-device\Default\shared_proto_db\metadata\000003.log
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.dart_tool\chrome-device\Default\shared_proto_db\metadata\CURRENT
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.dart_tool\chrome-device\Default\shared_proto_db\metadata\LOCK
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.dart_tool\chrome-device\Default\shared_proto_db\metadata\LOG
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.dart_tool\chrome-device\Default\shared_proto_db\metadata\LOG.old
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.dart_tool\chrome-device\Default\shared_proto_db\metadata\MANIFEST-000001
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.dart_tool\chrome-device\Default\Site Characteristics Database\000003.log
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.dart_tool\chrome-device\Default\Site Characteristics Database\CURRENT
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.dart_tool\chrome-device\Default\Site Characteristics Database\LOCK
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.dart_tool\chrome-device\Default\Site Characteristics Database\LOG
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.dart_tool\chrome-device\Default\Site Characteristics Database\LOG.old
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.dart_tool\chrome-device\Default\Site Characteristics Database\MANIFEST-000001
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.dart_tool\chrome-device\Default\Sync Data\LevelDB
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.dart_tool\chrome-device\Default\Sync Data\LevelDB\000003.log
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.dart_tool\chrome-device\Default\Sync Data\LevelDB\CURRENT
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.dart_tool\chrome-device\Default\Sync Data\LevelDB\LOCK
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.dart_tool\chrome-device\Default\Sync Data\LevelDB\LOG
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.dart_tool\chrome-device\Default\Sync Data\LevelDB\LOG.old
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.dart_tool\chrome-device\Default\Sync Data\LevelDB\MANIFEST-000001
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.dart_tool\chrome-device\Default\WebStorage\QuotaManager
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.dart_tool\chrome-device\Default\WebStorage\QuotaManager-journal
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.dart_tool\dartpad\web_plugin_registrant.dart
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.dart_tool\extension_discovery\devtools.json
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.dart_tool\extension_discovery\vs_code.json
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.git\COMMIT_EDITMSG
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.git\config
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.git\description
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.git\FETCH_HEAD
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.git\HEAD
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.git\hooks
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.git\index
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.git\info
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.git\logs
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.git\objects
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.git\ORIG_HEAD
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.git\refs
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.git\hooks\applypatch-msg.sample
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.git\hooks\commit-msg.sample
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.git\hooks\fsmonitor-watchman.sample
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.git\hooks\post-update.sample
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.git\hooks\pre-applypatch.sample
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.git\hooks\pre-commit.sample
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.git\hooks\pre-merge-commit.sample
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.git\hooks\pre-push.sample
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.git\hooks\pre-rebase.sample
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.git\hooks\pre-receive.sample
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.git\hooks\prepare-commit-msg.sample
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.git\hooks\push-to-checkout.sample
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.git\hooks\sendemail-validate.sample
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.git\hooks\update.sample
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.git\info\exclude
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.git\logs\HEAD
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.git\logs\refs
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.git\logs\refs\heads
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.git\logs\refs\remotes
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.git\logs\refs\heads\unp_main
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.git\logs\refs\remotes\origin
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.git\logs\refs\remotes\origin\unp_main
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.git\objects\00
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.git\objects\04
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.git\objects\05
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.git\objects\06
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.git\objects\09
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.git\objects\0a
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.git\objects\0b
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.git\objects\0d
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.git\objects\0e
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.git\objects\10
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.git\objects\11
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.git\objects\13
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.git\objects\14
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.git\objects\16
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.git\objects\17
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.git\objects\18
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.git\objects\19
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.git\objects\1c
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.git\objects\1d
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.git\objects\1e
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.git\objects\21
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.git\objects\22
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.git\objects\23
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.git\objects\29
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.git\objects\2b
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.git\objects\2c
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.git\objects\2d
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.git\objects\2e
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.git\objects\2f
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.git\objects\30
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.git\objects\31
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.git\objects\32
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.git\objects\34
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.git\objects\35
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.git\objects\36
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.git\objects\38
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.git\objects\39
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.git\objects\3a
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.git\objects\3b
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.git\objects\3c
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.git\objects\3d
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.git\objects\3e
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.git\objects\41
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.git\objects\42
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.git\objects\43
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.git\objects\44
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.git\objects\46
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.git\objects\47
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.git\objects\4c
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.git\objects\4d
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.git\objects\4e
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.git\objects\4f
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.git\objects\50
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.git\objects\52
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.git\objects\54
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.git\objects\59
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.git\objects\5a
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.git\objects\5b
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.git\objects\5d
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.git\objects\5e
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.git\objects\60
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.git\objects\63
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.git\objects\65
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.git\objects\66
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.git\objects\68
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.git\objects\69
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.git\objects\6a
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.git\objects\6b
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.git\objects\6c
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.git\objects\6d
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.git\objects\6e
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.git\objects\6f
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.git\objects\70
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.git\objects\72
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.git\objects\73
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.git\objects\74
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.git\objects\76
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.git\objects\77
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.git\objects\78
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.git\objects\79
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.git\objects\7a
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.git\objects\7c
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.git\objects\7e
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.git\objects\7f
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.git\objects\80
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.git\objects\81
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.git\objects\82
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.git\objects\84
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.git\objects\85
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.git\objects\86
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.git\objects\88
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.git\objects\89
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.git\objects\8a
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.git\objects\8b
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.git\objects\8d
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.git\objects\8e
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.git\objects\8f
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.git\objects\90
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.git\objects\91
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.git\objects\95
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.git\objects\97
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.git\objects\9a
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.git\objects\9d
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.git\objects\a0
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.git\objects\a1
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.git\objects\a2
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.git\objects\a4
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.git\objects\a5
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.git\objects\a6
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.git\objects\a7
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.git\objects\a8
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.git\objects\a9
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.git\objects\aa
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.git\objects\ac
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.git\objects\ae
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.git\objects\af
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.git\objects\b2
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.git\objects\b6
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.git\objects\b7
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.git\objects\b8
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.git\objects\b9
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.git\objects\ba
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.git\objects\bb
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.git\objects\bc
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.git\objects\bd
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.git\objects\bf
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.git\objects\c0
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.git\objects\c2
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.git\objects\c4
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.git\objects\c6
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.git\objects\c9
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.git\objects\ca
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.git\objects\cb
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.git\objects\cc
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.git\objects\d0
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.git\objects\d2
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.git\objects\d3
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.git\objects\d4
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.git\objects\d5
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.git\objects\d6
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.git\objects\d7
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.git\objects\db
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.git\objects\dc
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.git\objects\dd
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.git\objects\df
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.git\objects\e0
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.git\objects\e1
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.git\objects\e3
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.git\objects\e4
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.git\objects\e5
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.git\objects\e7
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.git\objects\e9
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.git\objects\ea
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.git\objects\eb
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.git\objects\ed
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.git\objects\ee
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.git\objects\ef
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.git\objects\f0
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.git\objects\f1
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.git\objects\f2
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.git\objects\f3
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.git\objects\f4
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.git\objects\f5
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.git\objects\f6
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.git\objects\f7
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.git\objects\f9
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.git\objects\fa
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.git\objects\fb
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.git\objects\fc
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.git\objects\fe
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.git\objects\ff
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.git\objects\info
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.git\objects\pack
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.git\objects\00\1609765c6cb76c257015a260acf7ff87646096
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.git\objects\00\4a9462bfbe4abec70b3165a07e1a9cf6cdb954
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.git\objects\04\67bf12aa4d28f374bb26596605a46dcbb3e7c8
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.git\objects\04\90f0a142489dc3f785e8adc94f1490596c9863
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.git\objects\05\0992323507f51b692ecca883425fd96a4a272a
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.git\objects\06\952be745f9fa6fa75196e830d9578eb2ee631d
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.git\objects\09\d4391482be68e9e4a07fab769b5de337d16eb1
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.git\objects\0a\3f5fa40fb3d1e0710331a48de5d256da3f275d
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.git\objects\0a\75843f666c187caad68e6c78758cda737739af
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.git\objects\0b\edcf2fd46788ae3a01a423467513ff59b5c120
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.git\objects\0d\1eff92c9d4d68565c18394add3bd18d2147e24
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.git\objects\0d\2902135caece481a035652d88970c80e29cc7e
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.git\objects\0e\c303439225b78712f49115768196d8d76f6790
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.git\objects\10\e8d176c6a4bf5d49096fb8b74d7ab15623b842
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.git\objects\11\02414a337cd3891cd2ede7baf1f0d74ef1014d
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.git\objects\11\57737f5e72a462c70bba4f212daa1a8417ff23
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.git\objects\11\61208274da61d6f1398e10edc9b50a74543563
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.git\objects\13\b35eba55c6dabc3aac36f33d859266c18fa0d0
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.git\objects\14\8da3098986ea6c098d5a7b1f8e9cbf6b427b56
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.git\objects\16\1a65d99d6b973c172c63b2c361ec6a009bd426
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.git\objects\17\987b79bb8a35cc66c3c1fd44f5a5526c1b78be
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.git\objects\17\e9516a74074fad22bac3e52e39131886697622
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.git\objects\18\d981003d68d0546c4804ac2ff47dd97c6e7921
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.git\objects\19\61ac74926d03ef1a43d8bdcd609fecf977d354
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.git\objects\1c\4cfdd96a89b0095dbd29a6ca194e41ad77b4fd
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.git\objects\1c\7c3d1f485d40fd7d010002c5750469e1b6b163
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.git\objects\1d\526a16ed0f1cd0c2409d848bf489b93fefa3b2
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.git\objects\1d\6d19b7f8ec7bf59a4e7134091d9d5f6760df44
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.git\objects\1e\450b06d6139132a186fb55e0bcffbbb3d780b9
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.git\objects\1e\6ee1a00ee5c5b89a9daf045e98959078666023
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.git\objects\21\6786fadd68fd8ba3e33133f2a1a886c69decd0
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.git\objects\22\c4462b79288fe10768cc571a36732ce5726025
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.git\objects\23\306f5b210668d55df0a37980b4a5fcd1238c4e
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.git\objects\23\33434e73d1eb55625c1d058f5cdf56f753d4f8
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.git\objects\29\a3a5017f048d6d8e6a450eef64435ddee44fb7
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.git\objects\2b\a986f6f136f061ad7c345c47245788068e9218
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.git\objects\2c\bd8d7c02d85a812e93c4b482b65200c3f0e593
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.git\objects\2d\2b7c8d7ae01aa83e81e826759e2bb8a9e264a6
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.git\objects\2e\1de87a7eb61e17463f7406106f6c413533cecf
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.git\objects\2f\1632cfddf3d9dade342351e627a0a75609fb46
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.git\objects\30\4732f8842013497e14bd02f67a55f2614fb8f7
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.git\objects\30\8a2a560b42f17aaf3c36e4e9c8cd07182fbb7e
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.git\objects\31\71c15409ab7b78b18d441405fde2fa5b537bd6
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.git\objects\32\1773cd857a8a0f0c9c7d3dc3f5ff4fb298dc10
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.git\objects\32\6c0e72c9d820600887813b3b98d0dd69c5d4e8
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.git\objects\32\8e34eb1f93441453bc6382c54e804e1876084c
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.git\objects\32\92cb979c7d86752fb24707f231acef663f6bc0
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.git\objects\32\dc8a5b362dc2302359e87b0c26a03933573b3e
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.git\objects\34\7139c48727d4f32a2b9bac862fb4793356cc63
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.git\objects\35\1adb7041d785977bec03ec72edd31a91058d5a
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.git\objects\35\29b0c7215ff167ea14136c88f8ad8b74516f55
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.git\objects\36\b0fd9464f45b33f482e64bea579787e142affa
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.git\objects\36\cbce676bcfbddfa689b9d0abf23ac40fd2e60b
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.git\objects\38\79d54755798567f0f318d63340508d5668eb96
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.git\objects\39\4917c053a04daa76d8b94f0a02db0bd99e1034
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.git\objects\39\9f6981d5d35475eb18e6068ae67cdd7c731978
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.git\objects\3a\f93b882364ddc13fefa4826038d2c851bf5ea1
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.git\objects\3b\394fe1dc53c8ca468a23a39db94abb69047309
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.git\objects\3c\c05eb23491684aae1c51ce94668a142bad5125
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.git\objects\3d\eaa5c465fa3658f6df4473eddf42ea6a9d3667
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.git\objects\3d\f3d1a91dec9f419bbf32c7dbd7ffe3049577b7
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.git\objects\3e\93413b1348f80307d986c7d9d2c3ff755ff610
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.git\objects\41\dffd916c819ce639f0636e55bb4082214acca3
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.git\objects\42\bcbf4780b187e80025b7917058bcb882012aa1
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.git\objects\43\f519afc2a7e58071385ad4decaece156ed752f
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.git\objects\43\f5fda363db2f1af0e756ab29be2d8061043f79
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.git\objects\44\8a2c39a06938d304841444409eeaa3968e096f
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.git\objects\46\b726bd53d47e61ba941eb355b9c8633ebbaa20
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.git\objects\47\89daa6a443eefa7f3f729164a18351e06e9800
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.git\objects\4c\d7b0099ca80c806f8fe495613e8d6c69460d76
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.git\objects\4c\fcd01e672e8eb71cfb232254cdca108cad1d88
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.git\objects\4d\6372eebdb28e45604e46eeda8dd24651419bc0
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.git\objects\4d\6b7d61e333599b6032c6f4f6418bb65376cb2c
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.git\objects\4e\50606f549e859ee5672c6a6cb3970de52cee0a
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.git\objects\4f\56785c71c8f9218e088d166367a2d23b29cced
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.git\objects\4f\d18cc1f8383964b3ed99b45f1375237fa051bb
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.git\objects\50\2f463a9bc882b461c96aadf492d1729e49e725
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.git\objects\50\753f750f0fb87aaacf07469a59fde9f983d7ae
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.git\objects\52\c249725dac986a685ad14895afc0cbb1aef3ce
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.git\objects\54\18c9f5395573cfd0fb8290b7ac946030f11ec6
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.git\objects\54\7dfdb5f53f887f0c417cd7f5ae40a06be52d6d
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.git\objects\59\2ceee85b89bd111b779db6116b130509ab6d4b
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.git\objects\59\8d13fee446372f156ecc38527b54c7cdcc8e3b
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.git\objects\5a\88276a7b36980d2efa2689a410aebb67aa65b8
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.git\objects\5b\c177cede387377b867e1cc1620b5b15c6e0bc7
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.git\objects\5d\246a0f1ddc51ecbae0b96b1c50f54edcf81724
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.git\objects\5e\34fa85ed2ade1ebc3f57a3e8a27018932cc2c6
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.git\objects\60\608d0fe5bff3a7a7e05d5a232944a1a8effe5f
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.git\objects\63\2d2b2d22cecb11f32745c644c827ecf75669ff
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.git\objects\63\6d1020848460b07a4ef4f2e333d760f37dce13
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.git\objects\63\f17d3a8fc811fccbbacb0963b6b275a739dff5
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.git\objects\65\e59c4db9bc8672df78cf39f39b1181a8ede4c1
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.git\objects\66\a65d1e4a79f230031ec0e0959a721039e7282f
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.git\objects\68\8a90345fe28435f2f748d38c6fb92373bab8b3
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.git\objects\69\0dbba97f29a0d912cb5f24e1591c2883d489da
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.git\objects\6a\431d348a4698f48cf92068432e2906755ded72
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.git\objects\6b\cb14981ba54c337b019622beabdc2990d52b1f
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.git\objects\6b\cc50f1d3537288a97bf1fb96e9fe5aad8d644b
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.git\objects\6c\31258a4466e5b0c104e4eaad29367a753c6029
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.git\objects\6c\444ec61356630686f1d7cad2600c2839c9738c
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.git\objects\6c\8e736c9131cbed40246aad6c478f4be38fbd3f
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.git\objects\6d\5a6cc78b4ada42c94d15aa86af9c0e8b3a8621
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.git\objects\6d\8667eb6e883fdbd1fb92d90716ec887008b5b7
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.git\objects\6d\a0652f05f28fc6950cec20ebdfbae89b665479
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.git\objects\6e\d2d933e1120817fe9182483a228007b18ab6ae
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.git\objects\6f\568019d3c69d4966bb5a0f759980a1472afc1e
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.git\objects\6f\d86217fce18177d21eaa4aafe6982bc3c34366
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.git\objects\70\29c17d4df00ae7c29f070f5fb4b9259c2c46fc
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.git\objects\70\32cfefd732441194d33fd091ba19a2ea81de34
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.git\objects\70\693e4a8c128fc4350b157416374ca599ac8c7b
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.git\objects\72\271d5e41701cfbffad74d38640bf9cc7c1f7be
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.git\objects\72\32fa830e4bbf60500b5ed8f4b1b5fa94d9bdde
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.git\objects\73\53c41ecf9ca08017312dc233d9830079b50717
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.git\objects\74\64ab003445fa5f78e7c07de5152e4b77329ae9
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.git\objects\74\6adbb6b9e14b7e685c91e280a4d37a672afbd8
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.git\objects\76\e1789b06850f063df87b763f25be27996e1488
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.git\objects\77\681f469c9b9a74f4b9c2acb5e4a76be617e44b
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.git\objects\77\902259ffb11a26140dfa55e0fb3a8cd3d36ddc
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.git\objects\78\5210917a95e0e75603426e34ba833da966eacd
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.git\objects\79\2d14332cc12a1f984c854ace398be03a3b164d
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.git\objects\79\7d452e458972bab9d994556c8305db4c827017
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.git\objects\7a\7f9873ad7dceb4dc17087fb06c800fa0191376
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.git\objects\7c\56964006274498b0edaa77763cdd72c6d42b6a
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.git\objects\7e\3872fbc1d9633b81bdf664349c85eacdbe455f
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.git\objects\7f\4e4b096f43406dbf5b98c56cf0701b5333590f
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.git\objects\80\4ef2fb66b2855eb00a5c3bca02f1783760fcd0
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.git\objects\80\e867a4e06b4dc26d0a2b327cbd54041addc50a
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.git\objects\81\5fcb345967f9148d75785c7473226679aecf01
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.git\objects\82\b6f9d9a33e198f5747104729e1fcef999772a5
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.git\objects\82\ba604d3fc9f3a6defaef630b09dfa3b65ae3cc
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.git\objects\84\281a00910444660f4837de69cdb068b84ff0fb
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.git\objects\84\432d070b50d7391b366b96a0cf2f8e4a21da90
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.git\objects\84\7cd91d0d090c8c75be5a591d17538b163056c6
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.git\objects\84\7d0b9a723119fc3f87ee247658c8fbe615ccfe
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.git\objects\84\ac32ae7d989f82d5e46a60405adcc8279e8001
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.git\objects\85\2fa1a4728ae4789e3bca55dd07caef3b41f2a5
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.git\objects\86\a7c3b1b6119f7dbdb8cec74f1b5b3e076bf949
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.git\objects\88\3cf0966ef0eb8fdbeafb6a6bae27f0b4c941ed
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.git\objects\88\cfd48dff1169879ba46840804b412fe02fefd6
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.git\objects\89\53cba09064923c5daf2d37e7c3c836ccdd794b
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.git\objects\89\c2725b70f1882be97f5214fafe22d27a0ec01e
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.git\objects\8a\aa46ac1ae21512746f852a42ba87e4165dfdd1
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.git\objects\8a\f96a2c8ade099adb3fca57791d512ff901fc4a
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.git\objects\8b\6d4680af388f28db8742ef7fb8246e2bb1fffb
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.git\objects\8b\7758126ab296edfe5749156c54f0893851cd9f
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.git\objects\8b\d06bdf095c809f80d639847440b06b0199a88c
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.git\objects\8d\6a20f2a3d5de0037df1488bfa72b9ce874a9a2
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.git\objects\8e\3ca5dfe1936519e96475be8d0b5ff5faa43727
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.git\objects\8e\940891213b854cceb67cedbdf7639ce76192a3
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.git\objects\8f\27eebff498ea0d821fd414dc00c68cb3400102
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.git\objects\90\3f4899d6fced0eb941e159f7322b21b320c40c
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.git\objects\91\9434a6254f0e9651f402737811be6634a03e9c
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.git\objects\95\07f6dd1e40e926ce1e8d39c6d37ed775b0e624
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.git\objects\95\5ee3038f988929fac2dedb6a307ebd45dfcfd7
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.git\objects\97\3eba84386af1a774c3c55b3387ea7f259a517b
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.git\objects\9a\0dd30d84ec5c51d63ccf92c74dcff9edb4e656
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.git\objects\9d\9ed9c23a7f378cb7647ca5d04912f9d669dcff
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.git\objects\9d\a19eacad3b03bb08bbddbbf4ac48dd78b3d838
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.git\objects\a0\d75d7200e1796f4f7372af9f31f03a13b946ca
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.git\objects\a1\8eab9e62b4ac433353250bdf16d1f8f7a37b63
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.git\objects\a2\ec33f19f110ebff51a23342d7bc29ec9a1aaa6
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.git\objects\a4\2ea7687cb67e55af955dc8874a072e087ce3ed
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.git\objects\a5\54a5df63e826c057ab33a3c94597b152f3a9ca
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.git\objects\a5\74fb9e3907608e950927d928b60aed4a83795a
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.git\objects\a6\368af0ee7628fa194ef8fe3bbe4523113d6e05
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.git\objects\a7\c0672e866031b57ae6e6d608d465dca9dcdb3b
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.git\objects\a8\7eef84a5d29844f41176f808a797cea593616b
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.git\objects\a8\e64fdfeb26c1371bc1169043e31175cea36ef3
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.git\objects\a9\d901699a80abea80596dbfbfa29194f0becfa6
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.git\objects\aa\c07731beeba4ea3436d7b603fc49f73127f293
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.git\objects\ac\a19c7fe0de99c04601b4462377064579821074
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.git\objects\ae\9170c8925675f1454ce4b3bee3484ce23de59c
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.git\objects\af\0fcc01ae1f902e72ef8b4f27f07f0d48f64bfe
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.git\objects\af\6b9de17c1467ed30b8decd00a3d329bada7fe2
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.git\objects\b2\b08734db2bf90568fb1980bf46e0f42aea5856
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.git\objects\b6\d6e22102d2a21a287aba42de5c037f9199885a
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.git\objects\b7\49bfef07473333cf1dd31e9eed89862a5d52aa
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.git\objects\b7\ad1fa7488a13d5f0a4fb2b528f03ddf586f75c
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.git\objects\b7\df3389dbe06c8cf94ebd1c0dd8c5ce90b5dddd
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.git\objects\b7\eb8b0b04466566dd4142de7eef501add604fdb
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.git\objects\b8\3b40a97c69722aacd39eb96ae7ccfa3c5085e0
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.git\objects\b9\2a0d854da9a8f73216c4a0ef07a0f0a44e4373
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.git\objects\b9\3c4c30c16703f640bc38523e56204ade09399e
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.git\objects\b9\b326efe10becf7b29a4cd0f76b58b072eb385c
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.git\objects\b9\b6e8fe57e71024948a5366b26352c82067f560
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.git\objects\ba\f3d77f76706dbc82162dd6bc9a1365ac5be830
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.git\objects\bb\a2ebf48b9bfd7f4ab3d937ebccaca1a2a753d3
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.git\objects\bc\157bd1a12b9084c8bb65ade59863a6b71818c8
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.git\objects\bd\b57226d5f2bd20f11934f4903f16459cf52379
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.git\objects\bf\26b576d06f71a38afa6e546bfd936292c33918
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.git\objects\bf\6d21a7984783bd67f3a1d42f5e322a4c09e5a8
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.git\objects\c0\4e20caf6370ebb9253ad831cc31de4a9c965f6
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.git\objects\c0\765f93b8c18946f289257374a43b7ab09375d7
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.git\objects\c0\9363d7c6b0d15e95ed7bde65c5f4b6b62105a4
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.git\objects\c2\efd0b608ba84712fb3e1d01122468a50c7fba1
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.git\objects\c4\3cc9b8ba4e4ae5c6df5ed5e3f199668b7fead0
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.git\objects\c6\0fdfd37343d460b696e6761e2600935b60afd7
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.git\objects\c6\e24c1a5c43e79da530b8bed68707d0b904282b
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.git\objects\c9\ee5eaeda337c51689358a930bb9b9a546fc70d
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.git\objects\ca\84d23f929431d31986b6c48fc1b03b718a8ab9
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.git\objects\cb\1ef88056edd1caf99a935e434e7ff6943a0ef6
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.git\objects\cb\204f93b1a4eeb4b8913ea0e4a24dd13e051fa8
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.git\objects\cc\cf817a52206e8a8eef501faed292993ff21a31
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.git\objects\d0\651fda5fbc1e0e728fe38d2abc65f7250c177d
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.git\objects\d0\8553b81d4908932a3bfc9bf2f7dd2acc3d963e
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.git\objects\d2\5e240f4846491d1973ff6d5e56d65de2826772
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.git\objects\d3\6b1fab2d9dea668a4f83df94d525897d9e68dd
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.git\objects\d3\896c98444fbe7288d434169a28c532258a4466
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.git\objects\d3\b9e0aafa70e7b518de6d7f36503def555e3867
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.git\objects\d4\92d0d98c8fdc9f93ad2543bb4f531803e9df72
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.git\objects\d5\3ef6437726b9d1558eda97582804175c0010a2
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.git\objects\d5\bd01648a96d50136b2a97c8bb9aa5b711f6c39
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.git\objects\d5\f1c8d34e7a88e3f88bea192c3a370d44689c3c
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.git\objects\d6\01bfea3d78317975a917b01a068fc5f67a9b13
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.git\objects\d6\9c56691fbdb0b7efa65097c7cc1edac12a6d3e
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.git\objects\d7\61c53178cc135119f252e047fb2f6e08512ed0
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.git\objects\db\5707cd3b6a48c8739514ce501ce4b49f66a9aa
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.git\objects\db\77bb4b7b0906d62b1847e87f15cdcacf6a4f29
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.git\objects\dc\139d85a93101cc0f6e9db03a3e1a9f68e8dd7e
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.git\objects\dc\9ada4725e9b0ddb1deab583e5b5102493aa332
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.git\objects\dd\db8a30c851e7ef5b16a9108934bd1217b6b43f
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.git\objects\df\d50cda472e891302999e1de1425ee4a043be63
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.git\objects\df\f4f49561c816f70eaea557d889d31cf63447ac
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.git\objects\e0\f0a47bc08f30b550b47b01de4c9206b6824dd9
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.git\objects\e1\ca574ef017c1bc00556b96ea372e2c07948771
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.git\objects\e3\3142e71bfc751ce1d7a7d46406235425786005
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.git\objects\e4\9901a46f1cffdd655c26b75d17189f42e777a2
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.git\objects\e5\21ea5f9888d4a79ab32ea8d5ef9a4f2b7d8d9e
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.git\objects\e5\6269bfccda68549d566ae989d1f128045d6d10
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.git\objects\e7\1a16d23d05881b554326e645083799ab9bfc5e
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.git\objects\e7\9e879e4169c4e75cf3d83e69ba083a6808ffac
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.git\objects\e7\c5c54370372a4cdde7288a32733998d87bd767
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.git\objects\e9\01dde684ea8ba25c50ea5dc7d5900da31a30d4
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.git\objects\e9\f5fea27c705180eb716271f41b582e76dcbd90
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.git\objects\ea\f2fd3221f739bb2772dc3682929b4a40abed45
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.git\objects\ea\f479fec6197d8883ce16f2f630d7ac73bcd156
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.git\objects\eb\9b4d76e525556d5d89141648c724331630325d
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.git\objects\ed\1a3b578f50d6916db58368d066ad92e41aa27e
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.git\objects\ee\eeb11cd5f5af3009f7a2f9985949f3272b4d15
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.git\objects\ef\621f321fb144756979dd9feebbb90567548443
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.git\objects\f0\83318e09ca1b6b8484b1694a149f0c5d5cac1d
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.git\objects\f1\b18a749160a081da1527abfff3a54667894fd5
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.git\objects\f2\3dc8341bde9646199e81be5be2f31801cb1e27
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.git\objects\f2\e259c7c9390ff69a6bbe1e0907e6dc366848e7
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.git\objects\f3\46021e5e353f2f827b3a136a02d0f53631c785
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.git\objects\f3\c28516fb38e64d88cfcf5fb1791175df078f2f
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.git\objects\f4\b48aa35ddef5f06dea49e6c4f10a1ac21102b4
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.git\objects\f5\8bb76100e82ec653e9b32a02d18d9232922d51
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.git\objects\f6\854f95671ff3ce5b276efffb1c6de69d5a412e
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.git\objects\f6\904b5799ffad03ba7e9e38022d49581d1fdd5b
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.git\objects\f7\4085f3f6a2b995f8ad1f9ff7b2c46dc118a9e0
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.git\objects\f9\b0d7c5ea15f194be85eb6ee8e6721a87ff4644
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.git\objects\fa\7179e00a5c2ce02f6bcb2757714b3191e2c584
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.git\objects\fa\e1b83b4b90d1dd88916e0e8c63d5fcba694404
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.git\objects\fb\54a29db776bce31ae4ba2d1e1de6a4e0cb3e94
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.git\objects\fc\9f77d7c52ed8137c6e381128c1aa8b2302ae3a
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.git\objects\fe\730945a01f64a61e2235dbe3f45b08f7729182
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.git\objects\ff\e1ebb9b39ef645a13d85ac8ac0a75b9ba376a0
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.git\refs\heads
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.git\refs\remotes
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.git\refs\tags
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.git\refs\heads\unp_main
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.git\refs\remotes\origin
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.git\refs\remotes\origin\unp_main
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.idea\libraries
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.idea\modules.xml
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.idea\runConfigurations
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.idea\workspace.xml
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.idea\libraries\Dart_SDK.xml
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.idea\libraries\KotlinJavaRuntime.xml
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.idea\runConfigurations\main_dart.xml
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\.vscode\launch.json
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\android\.gitignore
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\android\app
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\android\build.gradle
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\android\gradle
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\android\gradle.properties
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\android\gradlew
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\android\gradlew.bat
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\android\local.properties
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\android\planazoo_android.iml
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\android\settings.gradle
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\android\app\build.gradle
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\android\app\src
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\android\app\src\debug
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\android\app\src\main
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\android\app\src\profile
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\android\app\src\debug\AndroidManifest.xml
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\android\app\src\main\AndroidManifest.xml
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\android\app\src\main\java
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\android\app\src\main\kotlin
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\android\app\src\main\res
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\android\app\src\main\java\io
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\android\app\src\main\java\io\flutter
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\android\app\src\main\java\io\flutter\plugins
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\android\app\src\main\java\io\flutter\plugins\GeneratedPluginRegistrant.java
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\android\app\src\main\kotlin\com
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\android\app\src\main\kotlin\com\example
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\android\app\src\main\kotlin\com\example\planazoo
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\android\app\src\main\kotlin\com\example\planazoo\MainActivity.kt
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\android\app\src\main\res\drawable
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\android\app\src\main\res\drawable-v21
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\android\app\src\main\res\mipmap-hdpi
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\android\app\src\main\res\mipmap-mdpi
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\android\app\src\main\res\mipmap-xhdpi
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\android\app\src\main\res\mipmap-xxhdpi
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\android\app\src\main\res\mipmap-xxxhdpi
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\android\app\src\main\res\values
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\android\app\src\main\res\values-night
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\android\app\src\main\res\drawable\launch_background.xml
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\android\app\src\main\res\drawable-v21\launch_background.xml
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\android\app\src\main\res\mipmap-hdpi\ic_launcher.png
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\android\app\src\main\res\mipmap-mdpi\ic_launcher.png
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\android\app\src\main\res\mipmap-xhdpi\ic_launcher.png
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\android\app\src\main\res\mipmap-xxhdpi\ic_launcher.png
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\android\app\src\main\res\mipmap-xxxhdpi\ic_launcher.png
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\android\app\src\main\res\values\styles.xml
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\android\app\src\main\res\values-night\styles.xml
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\android\app\src\profile\AndroidManifest.xml
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\android\gradle\wrapper
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\android\gradle\wrapper\gradle-wrapper.jar
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\android\gradle\wrapper\gradle-wrapper.properties
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\build\129fe64d39a60f20f40290b7a749e2dc.cache.dill.track.dill
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\build\27ee144d91ca0d12f82c4225160d2a03
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\build\flutter_assets
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\build\27ee144d91ca0d12f82c4225160d2a03\gen_dart_plugin_registrant.stamp
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\build\27ee144d91ca0d12f82c4225160d2a03\gen_localizations.stamp
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\build\27ee144d91ca0d12f82c4225160d2a03\_composite.stamp
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\build\flutter_assets\AssetManifest.bin
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\build\flutter_assets\AssetManifest.bin.json
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\build\flutter_assets\AssetManifest.json
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\build\flutter_assets\FontManifest.json
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\build\flutter_assets\fonts
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\build\flutter_assets\NOTICES
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\build\flutter_assets\packages
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\build\flutter_assets\shaders
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\build\flutter_assets\fonts\MaterialIcons-Regular.otf
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\build\flutter_assets\packages\cupertino_icons
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\build\flutter_assets\packages\cupertino_icons\assets
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\build\flutter_assets\packages\cupertino_icons\assets\CupertinoIcons.ttf
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\build\flutter_assets\shaders\ink_sparkle.frag
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\ios\.gitignore
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\ios\Flutter
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\ios\Runner
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\ios\Runner.xcodeproj
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\ios\Runner.xcworkspace
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\ios\RunnerTests
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\ios\Flutter\AppFrameworkInfo.plist
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\ios\Flutter\Debug.xcconfig
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\ios\Flutter\flutter_export_environment.sh
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\ios\Flutter\Generated.xcconfig
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\ios\Flutter\Release.xcconfig
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\ios\Runner\AppDelegate.swift
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\ios\Runner\Assets.xcassets
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\ios\Runner\Base.lproj
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\ios\Runner\GeneratedPluginRegistrant.h
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\ios\Runner\GeneratedPluginRegistrant.m
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\ios\Runner\Info.plist
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\ios\Runner\Runner-Bridging-Header.h
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\ios\Runner\Assets.xcassets\AppIcon.appiconset
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\ios\Runner\Assets.xcassets\LaunchImage.imageset
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\ios\Runner\Assets.xcassets\AppIcon.appiconset\Contents.json
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\ios\Runner\Assets.xcassets\AppIcon.appiconset\Icon-App-1024x1024@1x.png
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\ios\Runner\Assets.xcassets\AppIcon.appiconset\Icon-App-20x20@1x.png
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\ios\Runner\Assets.xcassets\AppIcon.appiconset\Icon-App-20x20@2x.png
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\ios\Runner\Assets.xcassets\AppIcon.appiconset\Icon-App-20x20@3x.png
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\ios\Runner\Assets.xcassets\AppIcon.appiconset\Icon-App-29x29@1x.png
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\ios\Runner\Assets.xcassets\AppIcon.appiconset\Icon-App-29x29@2x.png
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\ios\Runner\Assets.xcassets\AppIcon.appiconset\Icon-App-29x29@3x.png
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\ios\Runner\Assets.xcassets\AppIcon.appiconset\Icon-App-40x40@1x.png
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\ios\Runner\Assets.xcassets\AppIcon.appiconset\Icon-App-40x40@2x.png
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\ios\Runner\Assets.xcassets\AppIcon.appiconset\Icon-App-40x40@3x.png
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\ios\Runner\Assets.xcassets\AppIcon.appiconset\Icon-App-60x60@2x.png
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\ios\Runner\Assets.xcassets\AppIcon.appiconset\Icon-App-60x60@3x.png
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\ios\Runner\Assets.xcassets\AppIcon.appiconset\Icon-App-76x76@1x.png
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\ios\Runner\Assets.xcassets\AppIcon.appiconset\Icon-App-76x76@2x.png
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\ios\Runner\Assets.xcassets\AppIcon.appiconset\Icon-App-83.5x83.5@2x.png
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\ios\Runner\Assets.xcassets\LaunchImage.imageset\Contents.json
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\ios\Runner\Assets.xcassets\LaunchImage.imageset\LaunchImage.png
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\ios\Runner\Assets.xcassets\LaunchImage.imageset\LaunchImage@2x.png
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\ios\Runner\Assets.xcassets\LaunchImage.imageset\LaunchImage@3x.png
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\ios\Runner\Assets.xcassets\LaunchImage.imageset\README.md
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\ios\Runner\Base.lproj\LaunchScreen.storyboard
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\ios\Runner\Base.lproj\Main.storyboard
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\ios\Runner.xcodeproj\project.pbxproj
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\ios\Runner.xcodeproj\project.xcworkspace
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\ios\Runner.xcodeproj\xcshareddata
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\ios\Runner.xcodeproj\project.xcworkspace\contents.xcworkspacedata
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\ios\Runner.xcodeproj\project.xcworkspace\xcshareddata
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\ios\Runner.xcodeproj\project.xcworkspace\xcshareddata\IDEWorkspaceChecks.plist
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\ios\Runner.xcodeproj\project.xcworkspace\xcshareddata\WorkspaceSettings.xcsettings
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\ios\Runner.xcodeproj\xcshareddata\xcschemes
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\ios\Runner.xcodeproj\xcshareddata\xcschemes\Runner.xcscheme
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\ios\Runner.xcworkspace\contents.xcworkspacedata
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\ios\Runner.xcworkspace\xcshareddata
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\ios\Runner.xcworkspace\xcshareddata\IDEWorkspaceChecks.plist
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\ios\Runner.xcworkspace\xcshareddata\WorkspaceSettings.xcsettings
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\ios\RunnerTests\RunnerTests.swift
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\lib\core
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\lib\data
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\lib\domain
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\lib\firebase_options.dart
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\lib\main.dart
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\lib\presentation
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\lib\utils
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\lib\core\colors.dart
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\lib\data\models
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\lib\data\tempo
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\lib\data\models\event.dart
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\lib\data\models\planazoo.dart
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\lib\data\models\user.dart
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\lib\presentation\pages
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\lib\presentation\state_management
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\lib\presentation\widgets
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\lib\presentation\pages\auth
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\lib\presentation\pages\main_screen
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\lib\presentation\pages\profile_screen
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\lib\presentation\pages\auth\login_screen.dart
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\lib\presentation\pages\auth\registration_screen.dart
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\lib\presentation\pages\main_screen\main_screen.dart
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\lib\presentation\pages\main_screen\widgets
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\lib\presentation\pages\main_screen\widgets\c1_widget.dart
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\lib\presentation\pages\main_screen\widgets\c2_widget.dart
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\lib\presentation\pages\main_screen\widgets\c3_widget.dart
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\lib\presentation\pages\main_screen\widgets\e10_widget.dart
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\lib\presentation\pages\main_screen\widgets\e11_widget.dart
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\lib\presentation\pages\main_screen\widgets\e12_widget.dart
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\lib\presentation\pages\main_screen\widgets\e13_widget.dart
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\lib\presentation\pages\main_screen\widgets\e2_widget.dart
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\lib\presentation\pages\main_screen\widgets\e3_widget.dart
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\lib\presentation\pages\main_screen\widgets\e5_widget.dart
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\lib\presentation\pages\main_screen\widgets\e6_widget.dart
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\lib\presentation\pages\main_screen\widgets\e7_widget.dart
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\lib\presentation\pages\main_screen\widgets\e8_widget.dart
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\lib\presentation\pages\main_screen\widgets\e9_widget.dart
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\lib\presentation\state_management\auth_provider.dart
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\lib\presentation\state_management\event_provider.dart
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\lib\presentation\state_management\planazoo_provider.dart
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\lib\presentation\state_management\user_provider.dart
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\lib\presentation\widgets\user_profile.dart
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\lib\utils\sample_data.dart
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\linux\.gitignore
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\linux\CMakeLists.txt
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\linux\flutter
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\linux\main.cc
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\linux\my_application.cc
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\linux\my_application.h
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\linux\flutter\CMakeLists.txt
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\linux\flutter\generated_plugins.cmake
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\linux\flutter\generated_plugin_registrant.cc
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\linux\flutter\generated_plugin_registrant.h
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\macos\.gitignore
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\macos\Flutter
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\macos\Runner
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\macos\Runner.xcodeproj
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\macos\Runner.xcworkspace
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\macos\RunnerTests
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\macos\Flutter\ephemeral
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\macos\Flutter\Flutter-Debug.xcconfig
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\macos\Flutter\Flutter-Release.xcconfig
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\macos\Flutter\GeneratedPluginRegistrant.swift
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\macos\Flutter\ephemeral\Flutter-Generated.xcconfig
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\macos\Flutter\ephemeral\flutter_export_environment.sh
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\macos\Runner\AppDelegate.swift
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\macos\Runner\Assets.xcassets
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\macos\Runner\Base.lproj
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\macos\Runner\Configs
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\macos\Runner\DebugProfile.entitlements
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\macos\Runner\Info.plist
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\macos\Runner\MainFlutterWindow.swift
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\macos\Runner\Release.entitlements
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\macos\Runner\Assets.xcassets\AppIcon.appiconset
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\macos\Runner\Assets.xcassets\AppIcon.appiconset\app_icon_1024.png
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\macos\Runner\Assets.xcassets\AppIcon.appiconset\app_icon_128.png
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\macos\Runner\Assets.xcassets\AppIcon.appiconset\app_icon_16.png
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\macos\Runner\Assets.xcassets\AppIcon.appiconset\app_icon_256.png
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\macos\Runner\Assets.xcassets\AppIcon.appiconset\app_icon_32.png
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\macos\Runner\Assets.xcassets\AppIcon.appiconset\app_icon_512.png
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\macos\Runner\Assets.xcassets\AppIcon.appiconset\app_icon_64.png
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\macos\Runner\Assets.xcassets\AppIcon.appiconset\Contents.json
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\macos\Runner\Base.lproj\MainMenu.xib
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\macos\Runner\Configs\AppInfo.xcconfig
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\macos\Runner\Configs\Debug.xcconfig
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\macos\Runner\Configs\Release.xcconfig
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\macos\Runner\Configs\Warnings.xcconfig
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\macos\Runner.xcodeproj\project.pbxproj
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\macos\Runner.xcodeproj\project.xcworkspace
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\macos\Runner.xcodeproj\xcshareddata
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\macos\Runner.xcodeproj\project.xcworkspace\xcshareddata
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\macos\Runner.xcodeproj\project.xcworkspace\xcshareddata\IDEWorkspaceChecks.plist
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\macos\Runner.xcodeproj\xcshareddata\xcschemes
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\macos\Runner.xcodeproj\xcshareddata\xcschemes\Runner.xcscheme
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\macos\Runner.xcworkspace\contents.xcworkspacedata
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\macos\Runner.xcworkspace\xcshareddata
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\macos\Runner.xcworkspace\xcshareddata\IDEWorkspaceChecks.plist
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\macos\RunnerTests\RunnerTests.swift
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\web\favicon.png
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\web\icons
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\web\index.html
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\web\manifest.json
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\web\icons\Icon-192.png
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\web\icons\Icon-512.png
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\web\icons\Icon-maskable-192.png
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\web\icons\Icon-maskable-512.png
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\windows\.gitignore
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\windows\CMakeLists.txt
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\windows\flutter
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\windows\runner
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\windows\flutter\CMakeLists.txt
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\windows\flutter\ephemeral
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\windows\flutter\generated_plugins.cmake
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\windows\flutter\generated_plugin_registrant.cc
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\windows\flutter\generated_plugin_registrant.h
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\windows\flutter\ephemeral\.plugin_symlinks
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\windows\runner\CMakeLists.txt
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\windows\runner\flutter_window.cpp
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\windows\runner\flutter_window.h
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\windows\runner\main.cpp
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\windows\runner\resource.h
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\windows\runner\resources
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\windows\runner\runner.exe.manifest
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\windows\runner\Runner.rc
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\windows\runner\utils.cpp
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\windows\runner\utils.h
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\windows\runner\win32_window.cpp
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\windows\runner\win32_window.h
+C:\Users\cclaraso\OneDrive\Trabajo\unplanazo\planazoo app\planazoo\windows\runner\resources\app_icon.ico

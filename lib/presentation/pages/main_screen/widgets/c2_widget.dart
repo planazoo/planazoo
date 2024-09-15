@@ -1,40 +1,57 @@
 import 'package:flutter/material.dart';
-import 'e2_widget.dart'; // Import E2Widget
-import 'e6_widget.dart'; // Import E6Widget
-import 'e7_widget.dart'; // Import E7Widget
-import 'e8_widget.dart'; // Import E8Widget
-import 'e9_widget.dart'; // Import E9Widget
-import 'c3_widget.dart'; // Import C3Widget
+import 'w2_widget.dart';  // W2 (R1, C2)
+import 'w3_widget.dart';  // W3 (R1, C2)
+import 'w4_widget.dart';  // W4 (R1, C2)
+import 'w13_widget.dart';  // W13 (R2, C2)
+import 'w26_widget.dart';  // W26 (R3, C2)
+import 'w27_widget.dart';  // W27 (R4, C2)
+import 'w28_widget.dart';  // W28 (Rows 5 to 12, C2)
+import 'w29_widget.dart';  // W29 (Row 13, C2)
 
-class C2Widget extends StatefulWidget {
-  final Function(String) onPlanSelected; // Add a callback to pass the selected plan to C3
+class C2Widget extends StatelessWidget {
+  final Function(String) onPlanSelected;
 
-  C2Widget({required this.onPlanSelected});
-
-  @override
-  _C2WidgetState createState() => _C2WidgetState();
-}
-
-class _C2WidgetState extends State<C2Widget> {
-  String? selectedPlanazoo;
+  const C2Widget({Key? key, required this.onPlanSelected}) : super(key: key);
 
   @override
   Widget build(BuildContext context) {
     return Column(
       children: [
-        E2Widget(), // Add E2 at the top of C2
-        E6Widget(), // Add E6 just below E2
-        E7Widget(), // Add E7 just below E6
-        E8Widget(), // Add E8 just below E7
+        // Row 1: W2, W3, W4 placed in C2 with the specified flex distribution
+        Row(
+          children: [
+            // W2 takes 70% of the row's width
+            Expanded(flex: 7, child: W2Widget()),  // W2 in C2 (Row 1)
+            
+            // W3 takes 15% of the row's width
+            Expanded(flex: 1, child: W3Widget()),  // W3 in C2 (Row 1)
+            
+            // W4 takes 15% of the row's width
+            Expanded(flex: 1, child: W4Widget()),  // W4 in C2 (Row 1)
+          ],
+        ),
 
-        // Scrollable list of Planazoos in E9
-        E9Widget(
-          onPlanSelected: (plan) {
-            setState(() {
-              selectedPlanazoo = plan; // Update the selected Planazoo
-            });
-            widget.onPlanSelected(plan); // Pass the selected Planazoo to C3
-          },
+        // Row 2: W13 in C2
+        W13Widget(),
+
+        // Row 3: W26 in C2
+        W26Widget(),
+
+        // Row 4: W27 in C2
+        W27Widget(),
+
+        // Rows 5 to 12: W28 in C2 (Scrollable Planazoo List)
+        Expanded(
+          flex: 9,
+          child: W28Widget(
+            onPlanSelected: onPlanSelected,  // Pass the callback to W28
+          ),
+        ),
+
+        // Row 13: W29 in C2
+        Container(
+          height: 55,
+          child: W29Widget(),
         ),
       ],
     );
